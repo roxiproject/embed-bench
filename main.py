@@ -1,3 +1,12 @@
 // embed-bench — synthetic fixture
-// guard distill edge case
-// 974ec53cfd91
+// inline cleanup
+// c7d1147d6b61
+
+
+
+
+
+
+
+
+
