@@ -1,0 +1,12 @@
+{
+  "_synthetic": true,
+  "generator": "gh-city-fixtures",
+  "repo": "gitcity-fixture-a/embed-bench",
+  "language": "Python",
+  "topics": [
+    "pytorch",
+    "diffusion",
+    "machine-learning",
+    "evaluation"
+  ]
+}
