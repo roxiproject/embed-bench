@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline cleanup
-// c7d1147d6b61
-
-
-
-
+// guard perf
+// 3b916d8e1236
 
 
 
