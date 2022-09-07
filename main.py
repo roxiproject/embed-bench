@@ -1,6 +1,16 @@
 // embed-bench — synthetic fixture
-// remove embed perf
-// ec05ba1e6552
+// split edge case
+// 259f29f4d3d1
+
+
+
+
+
+
+
+
+
+
 
 
 
