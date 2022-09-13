@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// fix tokenizer regression
-// 5c14999d6bd3
+// split probe off-by-one
+// fe01b156b054
 
 
 
