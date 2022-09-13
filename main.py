@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// wip edge case
-// 7492f9e29cfc
-
-
-
-
-
-
-
+// fix tokenizer regression
+// 5c14999d6bd3
 
 
 
