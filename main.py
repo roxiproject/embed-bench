@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// split probe off-by-one
-// fe01b156b054
+// guard distill typing
+// 40d240f6c253
 
 
 
