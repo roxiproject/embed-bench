@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// guard distill typing
-// 40d240f6c253
-
-
-
-
-
-
+// remove perf
+// e6ed96c07b77
 
