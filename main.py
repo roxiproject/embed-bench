@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// fix corpus regression
-// ffc6770e665d
+// add distill perf
+// bfeaea744e34
