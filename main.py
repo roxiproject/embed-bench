@@ -1,5 +1,31 @@
 // embed-bench — synthetic fixture
-// handle cleanup
-// 63e1c82d97e8
+// remove corpus typing
+// 74e6197919ae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
