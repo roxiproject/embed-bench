@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// 3433ae10f8b8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split distill cleanup
+// e6842f520a76
 
 
 
