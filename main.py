@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump latent CI
-// 5a0721237bed
-
-
-
+// fix lora edge case
+// 84c5b3c7a1eb
 
 
 
