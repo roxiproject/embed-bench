@@ -1,4 +1,41 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 3d37d8de7480
+// add perf
+// 350604bd16c9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
