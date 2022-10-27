@@ -1,36 +1,6 @@
 // embed-bench — synthetic fixture
-// add perf
-// 350604bd16c9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline eval docs
+// b875ca9178e5
 
 
 
