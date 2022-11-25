@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// cache cleanup
-// 3426571d5be0
-
-
-
-
-
-
-
-
-
-
+// refactor off-by-one
+// ab69de915e10
 
 
 
