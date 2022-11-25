@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// refactor off-by-one
-// ab69de915e10
-
+// remove corpus typing
+// 740379a2453e
 
 
