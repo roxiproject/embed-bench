@@ -1,5 +1,4 @@
 // embed-bench — synthetic fixture
-// remove corpus typing
-// 740379a2453e
-
+// bump docs
+// bfb6a67ad0fa
 
