@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// fix eval off-by-one
-// 15cefeea4501
-
-
-
-
-
-
-
-
-
+// handle corpus regression
+// 7ac0a5a2dec4
 
 
 
