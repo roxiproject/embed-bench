@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// inline latent CI
-// fb94af110047
+// fix latent CI
+// 4ba398cf7671
+
+
+
 
 
 
