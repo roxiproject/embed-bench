@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// add perf
-// a3b5e5e93656
-
-
-
-
-
-
-
-
-
-
+// guard regression
+// a94827ee7fb6
 
 
 
