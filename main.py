@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// handle flaky test
-// 25bb6575541a
-
-
+// add perf
+// a3b5e5e93656
 
 
 
