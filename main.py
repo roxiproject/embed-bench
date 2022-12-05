@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle cleanup
-// 0542027fb3dc
-
-
-
+// remove edge case
+// 7318f3d6fa26
 
 
 
