@@ -1,6 +1,16 @@
 // embed-bench — synthetic fixture
-// bump latent perf
-// aaa325cd8c08
+// remove embed off-by-one
+// df3fed4d74ec
+
+
+
+
+
+
+
+
+
+
 
 
 
