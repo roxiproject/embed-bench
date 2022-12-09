@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// handle latent cleanup
-// 75030f968017
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// 589cdaea6ea0
 
 
 
