@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// inline embed perf
-// 1e4c68589490
+// wip corpus perf
+// 6ddc0465dc11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
