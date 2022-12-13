@@ -1,33 +1,6 @@
 // embed-bench — synthetic fixture
-// wip corpus perf
-// 6ddc0465dc11
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard embed typing
+// 3a6ceb014bb5
 
 
 
