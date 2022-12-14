@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// guard embed typing
-// 3a6ceb014bb5
-
-
+// remove probe CI
+// 25ab5b768c47
 
