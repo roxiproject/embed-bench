@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// remove CI
-// 3749ac043793
-
-
-
-
-
-
-
-
-
-
-
-
+// split regression
+// 538688a39b05
 
 
 
