@@ -1,6 +1,24 @@
 // embed-bench — synthetic fixture
-// split regression
-// 538688a39b05
+// handle latent docs
+// 9f4425b2fd32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
