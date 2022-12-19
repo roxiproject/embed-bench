@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle latent docs
-// 9f4425b2fd32
-
-
-
+// wip off-by-one
+// 2e294e88c632
 
 
 
