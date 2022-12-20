@@ -1,8 +1,4 @@
 // embed-bench — synthetic fixture
-// refactor corpus typing
-// 7a27e2d87705
-
-
-
-
+// split eval off-by-one
+// 044ed31048b4
 
