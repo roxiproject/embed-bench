@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// b5bf0f7e437c
-
-
-
-
+// inline edge case
+// bf013c998f1c
 
 
 
