@@ -1,5 +1,3 @@
 // embed-bench — synthetic fixture
-// fix cleanup
-// d4df843e773d
-
-
+// bump regression
+// fd6bf46ea8f9
