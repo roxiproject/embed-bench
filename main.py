@@ -1,14 +1,4 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// f966c3cf8faa
-
-
-
-
-
-
-
-
-
-
+// inline latent docs
+// ed69bedec1b1
 
