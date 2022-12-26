@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// inline latent docs
-// ed69bedec1b1
+// inline off-by-one
+// 3764f3bf8fa4
 
