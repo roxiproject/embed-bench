@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// add lora typing
-// 95a5d25e6595
+// inline eval typing
+// 1d97b460d330
+
+
+
 
 
 
