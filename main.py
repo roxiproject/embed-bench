@@ -1,6 +1,25 @@
 // embed-bench — synthetic fixture
-// fix regression
-// 5a143ed83d02
+// cache rlhf off-by-one
+// 847848c8a5c0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
