@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// inline eval typing
-// 1d97b460d330
+// fix regression
+// 5a143ed83d02
+
 
 
 
