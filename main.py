@@ -1,26 +1,6 @@
 // embed-bench — synthetic fixture
-// cache rlhf off-by-one
-// 847848c8a5c0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle perf
+// 05a2c04d99db
 
 
 
