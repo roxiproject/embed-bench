@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// bump attention edge case
-// 6863ca6c8821
-
-
-
-
-
-
+// bump CI
+// 327a7ed71d03
 
 
 
