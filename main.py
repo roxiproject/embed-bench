@@ -1,38 +1,6 @@
 // embed-bench — synthetic fixture
-// remove distill regression
-// 8bc0b038a718
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump attention cleanup
+// f656c851dc41
 
 
 
