@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// bump attention cleanup
-// f656c851dc41
+// handle lora CI
+// 3524ced15e13
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
