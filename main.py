@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// handle lora CI
-// 3524ced15e13
-
-
-
-
-
-
-
+// remove perf
+// 639030b767b6
 
 
 
