@@ -1,39 +1,4 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// b1edf6a9917c
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle typing
+// 2b3c911dc4fe
 
