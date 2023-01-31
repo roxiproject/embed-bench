@@ -1,8 +1,3 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// 3ec5babd5c4f
-
-
-
-
-
+// guard corpus cleanup
+// 72a7b7ca2804
