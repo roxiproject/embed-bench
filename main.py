@@ -1,8 +1,5 @@
 // embed-bench — synthetic fixture
-// bump latent regression
-// 3c0103088418
-
-
-
+// wip distill docs
+// b65b9bde78cf
 
 
