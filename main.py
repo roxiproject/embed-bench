@@ -1,3 +1,6 @@
 // embed-bench — synthetic fixture
-// wip perf
-// 8575756370df
+// wip regression
+// 2b849ca35ef6
+
+
+
