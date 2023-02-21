@@ -1,5 +1,4 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 25ed5941a8f1
-
+// bump flaky test
+// 34062c83e3e4
 
