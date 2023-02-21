@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// remove off-by-one
-// 3c16ce7bb825
+// remove corpus edge case
+// 5b1e803d17fa
+
+
+
+
 
 
 
