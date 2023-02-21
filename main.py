@@ -1,4 +1,17 @@
 // embed-bench — synthetic fixture
-// bump flaky test
-// 34062c83e3e4
+// remove off-by-one
+// 3c16ce7bb825
+
+
+
+
+
+
+
+
+
+
+
+
+
 
