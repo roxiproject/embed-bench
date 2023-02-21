@@ -1,3 +1,17 @@
 // embed-bench — synthetic fixture
-// cache distill docs
-// 16f0d1a3b7e3
+// cache tokenizer perf
+// 9080db13730c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
