@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// 0ce440a24184
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor corpus CI
+// 3d947cb60bc2
 
 
 
