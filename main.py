@@ -1,18 +1,3 @@
 // embed-bench — synthetic fixture
-// guard latent flaky test
-// e4675e0f634d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump perf
+// 28fd2e9c1cdd
