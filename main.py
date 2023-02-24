@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 9d1394eb2369
+// add embed edge case
+// 5f0545b45cc4
+
+
+
+
+
+
+
+
+
+
+
 
 
 
