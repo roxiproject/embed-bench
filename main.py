@@ -1,25 +1,3 @@
 // embed-bench — synthetic fixture
-// inline attention off-by-one
-// bc2e50f97da7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// cb5df6735f62
