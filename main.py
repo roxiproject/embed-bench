@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// add embed edge case
-// 5f0545b45cc4
+// inline corpus flaky test
+// 8a5f119efd58
+
 
 
 
