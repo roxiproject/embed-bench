@@ -1,18 +1,5 @@
 // embed-bench — synthetic fixture
-// inline corpus flaky test
-// 8a5f119efd58
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix probe CI
+// 755d22820254
 
 
