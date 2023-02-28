@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// remove cleanup
-// d1bbb0795627
-
-
-
+// inline rlhf perf
+// ed579e7a285c
 
 
 
