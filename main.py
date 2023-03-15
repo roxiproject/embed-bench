@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// inline embed typing
-// 7f608b5f3d9d
-
-
-
-
-
-
+// fix distill perf
+// 54b00879c807
 
 
 
