@@ -1,13 +1,5 @@
 // embed-bench — synthetic fixture
-// fix distill perf
-// 54b00879c807
-
-
-
-
-
-
-
-
+// guard edge case
+// b13f128ba6e5
 
 
