@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// 85dbeeb6d08d
+// wip regression
+// b01e51dc7669
+
+
 
 
 
