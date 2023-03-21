@@ -1,5 +1,15 @@
 // embed-bench — synthetic fixture
-// wip perf
-// f02a3d52f0b4
+// handle distill off-by-one
+// 78b33f9c25ec
+
+
+
+
+
+
+
+
+
+
 
 
