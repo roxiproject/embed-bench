@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// handle corpus flaky test
-// a2fa578b852e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle docs
+// 78a6086754b5
 
 
 
