@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// 06b1ad9e716f
+// inline lora regression
+// 1052d4324e4f
 
 
 
