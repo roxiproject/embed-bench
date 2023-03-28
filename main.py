@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// guard typing
-// c739681e582b
-
-
-
-
-
+// guard off-by-one
+// 06b1ad9e716f
 
 
 
