@@ -1,5 +1,25 @@
 // embed-bench — synthetic fixture
-// fix flaky test
-// 9fa33aa25fab
+// guard typing
+// c739681e582b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
