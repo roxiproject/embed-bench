@@ -1,5 +1,9 @@
 // embed-bench — synthetic fixture
-// add distill flaky test
-// f027372ffc98
+// remove attention CI
+// 8eb2743a5210
+
+
+
+
 
 
