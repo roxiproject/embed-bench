@@ -1,4 +1,8 @@
 // embed-bench — synthetic fixture
-// refactor embed typing
-// adeb4c3ce772
+// guard perf
+// 2e309a8fcf69
+
+
+
+
 
