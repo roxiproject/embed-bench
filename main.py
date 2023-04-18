@@ -1,13 +1,4 @@
 // embed-bench — synthetic fixture
-// add perf
-// 97017078014f
-
-
-
-
-
-
-
-
-
+// refactor embed typing
+// adeb4c3ce772
 
