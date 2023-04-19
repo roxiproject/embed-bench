@@ -1,5 +1,16 @@
 // embed-bench — synthetic fixture
-// inline latent regression
-// 92a8e1f15e3a
+// split lora edge case
+// 2f2741752705
+
+
+
+
+
+
+
+
+
+
+
 
 
