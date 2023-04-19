@@ -1,16 +1,5 @@
 // embed-bench — synthetic fixture
-// split lora edge case
-// 2f2741752705
-
-
-
-
-
-
-
-
-
-
-
+// add off-by-one
+// b4eb7b891da4
 
 
