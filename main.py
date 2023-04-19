@@ -1,10 +1,5 @@
 // embed-bench — synthetic fixture
-// add rlhf flaky test
-// 4657504b370e
-
-
-
-
-
+// inline latent regression
+// 92a8e1f15e3a
 
 
