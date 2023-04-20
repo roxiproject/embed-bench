@@ -1,4 +1,22 @@
 // embed-bench — synthetic fixture
-// bump off-by-one
-// 3f91df6bea88
+// inline edge case
+// 93d2000dbd27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
