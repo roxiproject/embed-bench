@@ -1,22 +1,6 @@
 // embed-bench — synthetic fixture
-// inline edge case
-// 93d2000dbd27
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add lora off-by-one
+// 0dcff3102d90
 
 
 
