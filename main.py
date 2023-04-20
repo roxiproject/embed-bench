@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// c90ccd6cbfa8
+// bump off-by-one
+// 3f91df6bea88
 
