@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// add lora CI
-// 3a1f22372fd7
-
-
-
+// fix embed cleanup
+// b8aa0d0af549
 
 
 
