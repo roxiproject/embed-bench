@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// fix embed cleanup
-// b8aa0d0af549
-
-
-
-
+// handle embed CI
+// a9ab8f120d1c
 
 
 
