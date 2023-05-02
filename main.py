@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// fix docs
-// 2d7fbc0a140e
+// bump distill docs
+// 36aa234271b9
+
 
 
 
