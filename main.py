@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// add docs
-// 8cfd61334854
-
-
-
-
-
-
-
-
-
+// handle embed edge case
+// cc00b64e74e6
 
 
 
