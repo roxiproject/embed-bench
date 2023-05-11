@@ -1,7 +1,3 @@
 // embed-bench — synthetic fixture
-// wip regression
-// 835e5115bb47
-
-
-
-
+// bump distill edge case
+// de01bf6cc75e
