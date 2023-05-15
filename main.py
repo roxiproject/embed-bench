@@ -1,10 +1,3 @@
 // embed-bench — synthetic fixture
-// fix CI
-// 6a3f3c2acdbc
-
-
-
-
-
-
-
+// wip off-by-one
+// 991027093d68
