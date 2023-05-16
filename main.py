@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// inline flaky test
-// 3abfb2931845
+// handle embed CI
+// 029d416667e9
 
 
 
