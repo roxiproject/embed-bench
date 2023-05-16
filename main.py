@@ -1,29 +1,6 @@
 // embed-bench — synthetic fixture
-// remove off-by-one
-// c4ff123503ca
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline flaky test
+// 3abfb2931845
 
 
 
