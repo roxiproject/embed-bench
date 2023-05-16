@@ -1,4 +1,35 @@
 // embed-bench — synthetic fixture
-// split lora CI
-// ffcd676bbe43
+// remove off-by-one
+// c4ff123503ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
