@@ -1,3 +1,4 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// 991027093d68
+// split lora CI
+// ffcd676bbe43
+
