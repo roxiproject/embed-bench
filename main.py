@@ -1,12 +1,5 @@
 // embed-bench — synthetic fixture
-// handle embed CI
-// 029d416667e9
-
-
-
-
-
-
-
+// remove distill docs
+// 8476e040e0c4
 
 
