@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// fix perf
-// 4ce81216c3fa
-
+// handle regression
+// 06873e064d5b
 
 
