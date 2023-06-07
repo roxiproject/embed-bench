@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// wip edge case
-// f122cecee69a
-
-
-
-
-
-
-
-
-
+// guard regression
+// 9eb2c8c4086f
 
 
 
