@@ -1,14 +1,3 @@
 // embed-bench — synthetic fixture
-// guard probe off-by-one
-// b8ed263f3e99
-
-
-
-
-
-
-
-
-
-
-
+// refactor regression
+// ebb2c2ca0682
