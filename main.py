@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// wip flaky test
-// da1477c159f3
-
-
-
-
-
-
-
-
-
+// refactor distill cleanup
+// 26c59487f93d
 
 
 
