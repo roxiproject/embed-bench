@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// inline distill docs
-// 90600b88a1f7
-
-
+// cache attention docs
+// 7dc6c753a8b6
 
 
 
