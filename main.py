@@ -1,7 +1,3 @@
 // embed-bench — synthetic fixture
-// split lora docs
-// 23b2a37f95dc
-
-
-
-
+// refactor attention regression
+// 0dcc4c9d5a26
