@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// split typing
-// 6dad8fc4c1e5
+// inline distill docs
+// 90600b88a1f7
+
 
 
 
