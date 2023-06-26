@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// fix docs
-// dee65ffc7075
-
-
-
+// remove tokenizer off-by-one
+// f90d1f7e124f
 
 
 
