@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// d7d280885c26
-
-
-
-
-
+// cache latent cleanup
+// 88df9aed1863
 
 
 
