@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// handle embed off-by-one
-// 6a548edfa3dd
+// cache regression
+// 24705c38109d
 
 
 
