@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// fix rlhf perf
-// c5b17b2be04c
-
-
-
-
-
-
+// bump attention off-by-one
+// 2bee5bd4567f
 
 
 
