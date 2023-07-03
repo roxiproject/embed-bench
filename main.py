@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// split tokenizer docs
-// d56d53a2fc4f
+// wip tokenizer off-by-one
+// cef29a9de0fa
+
+
+
+
+
+
+
+
+
+
+
 
 
 
