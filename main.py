@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// guard latent typing
-// 57d02c2bebd7
-
-
-
-
-
-
-
+// wip lora flaky test
+// 9293dd0f99e2
 
