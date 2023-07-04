@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// wip tokenizer off-by-one
-// cef29a9de0fa
-
-
-
-
-
-
-
-
-
-
-
-
+// guard latent typing
+// 57d02c2bebd7
 
 
 
