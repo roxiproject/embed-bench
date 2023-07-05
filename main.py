@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// refactor attention edge case
-// 26d2193da439
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard tokenizer edge case
+// 1bd399e8e86b
 
