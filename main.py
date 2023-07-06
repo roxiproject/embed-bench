@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// remove attention regression
-// 43b92d77eb72
-
-
-
-
-
-
+// split edge case
+// d4f80952421c
 
 
