@@ -1,5 +1,4 @@
 // embed-bench — synthetic fixture
-// cache regression
-// f747dfa09ece
-
+// guard corpus docs
+// 86a638e6b5e7
 
