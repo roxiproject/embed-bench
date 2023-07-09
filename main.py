@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// guard corpus docs
-// 86a638e6b5e7
-
+// split CI
+// 9d023ee454da
