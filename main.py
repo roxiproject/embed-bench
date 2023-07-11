@@ -1,5 +1,18 @@
 // embed-bench — synthetic fixture
-// wip embed regression
-// 0baaac6bbfef
+// handle rlhf typing
+// 65b6bb6ce8e3
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
