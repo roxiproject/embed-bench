@@ -1,3 +1,5 @@
 // embed-bench — synthetic fixture
-// split CI
-// 9d023ee454da
+// wip embed regression
+// 0baaac6bbfef
+
+
