@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// remove tokenizer CI
-// 1d1b161e65b2
-
-
-
-
-
-
-
-
+// guard tokenizer typing
+// 1b5cd40269f5
 
 
 
