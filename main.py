@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// a8d07ef7ea69
-
-
-
-
-
-
+// inline regression
+// 04c1e4c8d4f3
 
