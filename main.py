@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline off-by-one
-// 240c93ed23f1
-
-
-
-
-
+// remove tokenizer CI
+// 1d1b161e65b2
 
 
 
