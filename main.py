@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// fix probe docs
-// 8ad321b5fefc
-
-
+// handle regression
+// 7182c483d67f
 
 
 
