@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// handle corpus cleanup
-// efe9279b229d
+// fix probe docs
+// 8ad321b5fefc
+
+
+
+
 
 
 
