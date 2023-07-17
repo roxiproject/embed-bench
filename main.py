@@ -1,28 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor latent docs
-// 61ee844c7147
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle corpus cleanup
+// efe9279b229d
 
 
 
