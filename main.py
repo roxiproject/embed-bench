@@ -1,8 +1,4 @@
 // embed-bench — synthetic fixture
-// guard attention off-by-one
-// b95042bdeaf5
-
-
-
-
+// handle regression
+// fd9d3968de15
 
