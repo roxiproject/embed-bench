@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// wip embed cleanup
-// 26e66f909458
+// remove attention perf
+// c44e782a974f
+
+
+
+
+
 
 
 
