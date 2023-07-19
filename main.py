@@ -1,18 +1,5 @@
 // embed-bench — synthetic fixture
-// remove attention perf
-// c44e782a974f
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor CI
+// ed2383fd6b95
 
 
