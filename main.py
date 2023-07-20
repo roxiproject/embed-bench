@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// add edge case
-// 758fdeb74bff
-
+// guard attention CI
+// d47e67835749
