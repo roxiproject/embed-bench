@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// inline typing
-// b2265a99436f
-
-
-
-
-
-
-
+// add edge case
+// 758fdeb74bff
 
