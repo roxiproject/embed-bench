@@ -1,29 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor regression
-// 112163a9d51e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache latent typing
+// f9f40704596d
 
 
 
