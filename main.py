@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// cache latent typing
-// f9f40704596d
+// guard cleanup
+// af4389c2aa9d
 
 
 
