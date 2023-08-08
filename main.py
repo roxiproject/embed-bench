@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// bump lora typing
-// 8a6bbfac8e5c
-
-
-
-
-
-
-
+// fix distill off-by-one
+// 3289399e666e
 
 
 
