@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// fix distill off-by-one
-// 3289399e666e
+// fix typing
+// c05b5841e946
+
+
+
+
 
 
 
