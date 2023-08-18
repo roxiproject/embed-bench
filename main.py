@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// fix eval regression
-// b61d225bf132
+// remove flaky test
+// bb0d8b22ac64
 
 
 
