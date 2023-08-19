@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// wip docs
-// ffb5189bde89
-
+// guard edge case
+// f8c0763f6ef7
 
 
