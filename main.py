@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// cache corpus off-by-one
-// 7736953217f6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix latent off-by-one
+// 54670dea0604
 
 
 
