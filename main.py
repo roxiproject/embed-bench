@@ -1,6 +1,24 @@
 // embed-bench — synthetic fixture
-// fix latent off-by-one
-// 54670dea0604
+// refactor edge case
+// 38d4a2557908
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
