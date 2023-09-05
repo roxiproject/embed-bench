@@ -1,6 +1,30 @@
 // embed-bench — synthetic fixture
-// add eval perf
-// 4eff6bbb82a3
+// add typing
+// 292737639bc3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
