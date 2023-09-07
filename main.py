@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// guard rlhf perf
-// 546b8385f093
-
-
-
-
-
-
-
-
-
-
+// bump docs
+// 53d04ae4e406
 
 
 
