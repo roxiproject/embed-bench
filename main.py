@@ -1,28 +1,4 @@
 // embed-bench — synthetic fixture
-// inline cleanup
-// 1fe2edda622d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache flaky test
+// 90a9d6d0ca54
 
