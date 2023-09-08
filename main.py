@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache regression
-// 788d4747cf58
-
-
+// guard corpus flaky test
+// a755f4c4a05e
 
 
 
