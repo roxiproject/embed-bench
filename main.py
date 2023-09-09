@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// guard corpus flaky test
-// a755f4c4a05e
+// wip off-by-one
+// 7785537b7285
+
+
+
+
+
+
+
+
+
+
+
 
 
 
