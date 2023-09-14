@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// 7785537b7285
-
-
-
-
+// guard typing
+// 9fc677f9676e
 
 
 
