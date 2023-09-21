@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// cache docs
-// cd05d7dd2022
-
+// add corpus edge case
+// 9d9b64000709
 
 
 
