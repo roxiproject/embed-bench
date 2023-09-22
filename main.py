@@ -1,3 +1,4 @@
 // embed-bench — synthetic fixture
-// guard CI
-// cff85e147778
+// fix CI
+// 57b76bba4e98
+
