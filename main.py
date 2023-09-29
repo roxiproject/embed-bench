@@ -1,6 +1,18 @@
 // embed-bench — synthetic fixture
-// inline cleanup
-// 139cf30a7993
+// guard off-by-one
+// a8ef8bfc6b09
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
