@@ -1,21 +1,3 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// a8ef8bfc6b09
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix tokenizer off-by-one
+// 58563a9e9513
