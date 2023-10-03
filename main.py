@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// cache cleanup
-// 04cb0440870e
-
-
-
-
-
-
-
-
-
+// handle probe regression
+// 41a2a73cdc55
 
 
 
