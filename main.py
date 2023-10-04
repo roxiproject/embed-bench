@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// handle probe regression
-// 41a2a73cdc55
+// guard corpus edge case
+// c9bbf9d92cc8
+
+
 
 
 
