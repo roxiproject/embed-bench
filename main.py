@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// guard corpus edge case
-// c9bbf9d92cc8
-
-
-
-
+// refactor CI
+// 87a2078fd4ad
 
 
 
