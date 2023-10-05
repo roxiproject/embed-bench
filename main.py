@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 87a2078fd4ad
+// remove off-by-one
+// a225667453b8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
