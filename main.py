@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// handle flaky test
-// 09db3dffe8be
+// guard embed perf
+// 2d4ebf81c9b9
+
 
 
 
