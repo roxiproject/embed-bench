@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// guard embed perf
-// 2d4ebf81c9b9
-
+// add off-by-one
+// 50e7e1b3c846
 
 
 
