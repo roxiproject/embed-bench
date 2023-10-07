@@ -1,5 +1,5 @@
 // embed-bench — synthetic fixture
-// wip rlhf CI
-// 391ec2536add
+// handle lora edge case
+// beee0840fc57
 
 
