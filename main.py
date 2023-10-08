@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// wip flaky test
-// 4b3a0aa50b14
-
-
+// handle eval off-by-one
+// 97dc7ea69cba
 
 
 
