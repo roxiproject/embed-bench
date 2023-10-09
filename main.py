@@ -1,13 +1,4 @@
 // embed-bench — synthetic fixture
-// cache regression
-// b3a7571e4c44
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// 63e14fb21ee2
 
