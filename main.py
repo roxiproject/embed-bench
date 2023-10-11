@@ -1,6 +1,30 @@
 // embed-bench — synthetic fixture
-// cache rlhf regression
-// eedb720ad843
+// fix tokenizer off-by-one
+// 0883b53c782d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
