@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// split edge case
-// b11401fa0e29
+// split distill typing
+// d9022c27e138
 
