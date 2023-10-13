@@ -1,23 +1,5 @@
 // embed-bench — synthetic fixture
-// inline embed CI
-// 1b272ee06642
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline attention edge case
+// 5184cf76bb10
 
 
