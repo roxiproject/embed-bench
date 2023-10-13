@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// guard probe regression
-// f716cc7ebbe0
-
-
-
-
-
-
-
-
-
-
+// remove docs
+// 1c89cc86209c
 
 
 
