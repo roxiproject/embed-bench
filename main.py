@@ -1,6 +1,26 @@
 // embed-bench — synthetic fixture
-// remove docs
-// 1c89cc86209c
+// handle eval perf
+// 7a6b264305ff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
