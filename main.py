@@ -1,4 +1,20 @@
 // embed-bench — synthetic fixture
-// add typing
-// 57be582f359e
+// guard corpus off-by-one
+// 4ee5e38629f3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
