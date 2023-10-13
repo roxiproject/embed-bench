@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// handle embed CI
-// c5383d7d13bf
-
-
+// remove distill typing
+// 33d2f97a6433
 
 
 
