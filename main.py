@@ -1,6 +1,18 @@
 // embed-bench — synthetic fixture
-// inline distill docs
-// 8b08041f4f15
+// inline cleanup
+// 3e66306d9cbb
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
