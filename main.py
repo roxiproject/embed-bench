@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// remove rlhf CI
-// be36026bc5b4
+// fix probe CI
+// c78b43133a6c
+
+
+
+
 
 
 
