@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor attention cleanup
-// 4a4a8215519f
-
-
-
-
-
-
-
-
+// handle probe regression
+// 61af0605ef1c
 
 
 
