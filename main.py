@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// add typing
-// 0516cc9ce9fe
+// refactor corpus typing
+// 88bf4f077696
+
+
+
 
 
 
