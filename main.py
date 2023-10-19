@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// remove lora off-by-one
-// 92ee018deeeb
-
-
-
-
+// add typing
+// 0516cc9ce9fe
 
 
 
