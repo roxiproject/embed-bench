@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// handle regression
-// 915965a8b5df
+// inline latent docs
+// c0f6ae5e2580
+
+
+
+
+
+
+
+
+
 
 
 
