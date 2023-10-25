@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// inline latent docs
-// c0f6ae5e2580
-
-
-
-
-
-
-
-
-
+// handle distill CI
+// c1736bab1cc8
 
 
 
