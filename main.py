@@ -1,29 +1,3 @@
 // embed-bench — synthetic fixture
-// add tokenizer flaky test
-// f5967e9a2d39
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip tokenizer off-by-one
+// 8b9e95eac62e
