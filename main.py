@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// cache tokenizer CI
-// 9b78600ddff2
-
-
-
-
+// add corpus off-by-one
+// 18ae4a152777
 
 
 
