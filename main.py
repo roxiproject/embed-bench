@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// add corpus off-by-one
-// 18ae4a152777
+// wip attention off-by-one
+// 4151bd5cdb1a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
