@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// wip attention off-by-one
-// 4151bd5cdb1a
-
-
-
-
-
-
-
-
+// handle latent edge case
+// 66c6607ae356
 
 
 
