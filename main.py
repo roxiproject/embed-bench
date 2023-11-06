@@ -1,14 +1,5 @@
 // embed-bench — synthetic fixture
-// handle latent edge case
-// 66c6607ae356
-
-
-
-
-
-
-
-
-
+// remove corpus regression
+// 0fdfa87cfef9
 
 
