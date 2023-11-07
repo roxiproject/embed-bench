@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// split embed cleanup
-// ddea28bdd03b
-
-
-
-
-
-
-
-
+// guard flaky test
+// a89c866070dd
 
 
 
