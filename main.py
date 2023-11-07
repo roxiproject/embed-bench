@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard flaky test
-// a89c866070dd
+// fix tokenizer flaky test
+// afb8fe384161
 
 
 
