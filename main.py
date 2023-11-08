@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// fix tokenizer flaky test
-// afb8fe384161
-
-
-
-
-
-
+// guard regression
+// c950ff61025d
 
 
 
