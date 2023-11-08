@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// wip attention cleanup
-// a15ca203875d
+// cache corpus edge case
+// 311810c8db5f
+
+
+
+
+
+
+
+
 
 
 
