@@ -1,4 +1,5 @@
 // embed-bench — synthetic fixture
-// split typing
-// f018325d8fe9
+// fix eval edge case
+// 3a4ab3e232a3
+
 
