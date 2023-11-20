@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// remove embed flaky test
-// a8a2ae94d2cd
+// wip tokenizer off-by-one
+// a5c7ef0fd1bb
+
 
 
 
