@@ -1,8 +1,4 @@
 // embed-bench — synthetic fixture
-// handle typing
-// e85ab2ba540a
-
-
-
-
+// inline tokenizer regression
+// 033ab36a44db
 
