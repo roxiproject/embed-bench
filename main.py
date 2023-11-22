@@ -1,4 +1,7 @@
 // embed-bench — synthetic fixture
-// fix attention off-by-one
-// 11aadad2b468
+// fix typing
+// b910884723d1
+
+
+
 
