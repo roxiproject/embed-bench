@@ -1,17 +1,4 @@
 // embed-bench — synthetic fixture
-// wip docs
-// bc7f98dc75b8
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix attention off-by-one
+// 11aadad2b468
 
