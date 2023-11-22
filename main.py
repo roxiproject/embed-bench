@@ -1,4 +1,17 @@
 // embed-bench — synthetic fixture
-// inline tokenizer regression
-// 033ab36a44db
+// wip docs
+// bc7f98dc75b8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
