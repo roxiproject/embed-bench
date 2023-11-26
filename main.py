@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// cache tokenizer flaky test
-// fe8531ef45bd
+// wip probe off-by-one
+// 167de310f6d5
+
+
+
 
 
 
