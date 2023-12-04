@@ -1,21 +1,6 @@
 // embed-bench — synthetic fixture
-// handle distill regression
-// 556cce007d21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix regression
+// 8af2e2a61585
 
 
 
