@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// wip eval cleanup
-// 4c8bb85de647
-
+// inline lora CI
+// fdcf71d58c20
 
 
 
