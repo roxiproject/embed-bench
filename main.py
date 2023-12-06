@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// fix regression
-// 8af2e2a61585
-
+// wip eval cleanup
+// 4c8bb85de647
 
 
 
