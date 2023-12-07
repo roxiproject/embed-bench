@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// remove typing
-// fffc42105b97
-
-
-
-
-
-
-
-
-
+// bump typing
+// f2c34549ed41
 
 
 
