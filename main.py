@@ -1,12 +1,4 @@
 // embed-bench — synthetic fixture
-// inline lora CI
-// fdcf71d58c20
-
-
-
-
-
-
-
-
+// wip tokenizer regression
+// 1138dc174ffc
 
