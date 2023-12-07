@@ -1,4 +1,15 @@
 // embed-bench — synthetic fixture
-// wip tokenizer regression
-// 1138dc174ffc
+// remove typing
+// fffc42105b97
+
+
+
+
+
+
+
+
+
+
+
 
