@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor tokenizer off-by-one
-// dbce88d179c5
-
-
-
-
+// refactor cleanup
+// 9bd9a9587e2c
 
 
 
