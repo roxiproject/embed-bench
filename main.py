@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// split CI
-// 12699f79dd62
-
-
-
-
-
-
-
-
-
-
-
-
+// handle distill off-by-one
+// ee8ff8748482
 
 
 
