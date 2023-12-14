@@ -1,5 +1,12 @@
 // embed-bench — synthetic fixture
-// guard cleanup
-// 6462572f4813
+// inline regression
+// 62174b56243a
+
+
+
+
+
+
+
 
 
