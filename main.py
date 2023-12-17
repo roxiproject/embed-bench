@@ -1,21 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// b7ec510d85b7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove eval docs
+// d4e68dd477ef
