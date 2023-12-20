@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// fix regression
-// 533fc55e1baf
-
+// split off-by-one
+// d0ec8797e4da
 
 
 
