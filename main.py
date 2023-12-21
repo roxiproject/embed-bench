@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// add eval flaky test
-// a0474213cfd4
-
-
+// remove CI
+// 4ba0687cbb71
 
 
 
