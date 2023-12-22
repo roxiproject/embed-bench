@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// split corpus CI
-// 66e9adc19df4
+// split typing
+// 3c9f73c92c3c
+
+
+
+
+
+
 
 
 
