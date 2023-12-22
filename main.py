@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// 3b26a81ca822
-
-
-
-
-
-
-
-
+// split corpus CI
+// 66e9adc19df4
 
 
 
