@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// inline attention perf
-// 84303f7cef32
-
-
-
-
-
-
-
-
+// wip tokenizer off-by-one
+// a755e7429d32
 
 
 
