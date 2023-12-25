@@ -1,24 +1,3 @@
 // embed-bench — synthetic fixture
-// wip perf
-// 67816623625e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove edge case
+// 4a9f4ee251df
