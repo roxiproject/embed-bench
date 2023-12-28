@@ -1,14 +1,5 @@
 // embed-bench — synthetic fixture
-// handle rlhf perf
-// 19308d9ed6f4
-
-
-
-
-
-
-
-
-
+// inline latent CI
+// 2cccc9e27ffb
 
 
