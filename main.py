@@ -1,5 +1,15 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// 48d2d92d1914
+// cache off-by-one
+// 4524d3b4f148
+
+
+
+
+
+
+
+
+
+
 
 
