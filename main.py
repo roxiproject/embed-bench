@@ -1,5 +1,16 @@
 // embed-bench — synthetic fixture
-// inline latent CI
-// 2cccc9e27ffb
+// refactor eval regression
+// dca6deecd40b
+
+
+
+
+
+
+
+
+
+
+
 
 
