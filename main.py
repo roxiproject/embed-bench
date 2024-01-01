@@ -1,13 +1,5 @@
 // embed-bench — synthetic fixture
-// handle eval CI
-// 53d19c8552de
-
-
-
-
-
-
-
-
+// handle typing
+// 36ce267915df
 
 
