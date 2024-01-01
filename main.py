@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache off-by-one
-// 4524d3b4f148
-
-
+// handle eval CI
+// 53d19c8552de
 
 
 
