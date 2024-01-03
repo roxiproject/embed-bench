@@ -1,5 +1,20 @@
 // embed-bench — synthetic fixture
-// handle typing
-// 36ce267915df
+// wip embed edge case
+// 3f4d3e2985cb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
