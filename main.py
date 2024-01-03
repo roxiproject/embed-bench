@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// wip embed edge case
-// 3f4d3e2985cb
+// inline embed off-by-one
+// bbd7d6c05a29
+
 
 
 
