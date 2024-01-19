@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// ff410d1807e7
+// remove probe docs
+// 0b92d0d88a14
+
+
+
+
+
+
+
 
 
 
