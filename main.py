@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// fix latent perf
-// 160b1e22344f
+// split attention regression
+// 07e92ef13643
+
+
+
+
 
 
 
