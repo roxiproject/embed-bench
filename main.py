@@ -1,3 +1,6 @@
 // embed-bench — synthetic fixture
-// handle perf
-// 59158764544a
+// handle docs
+// 3bc7c7132492
+
+
+
