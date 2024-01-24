@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// add tokenizer regression
-// bf84bd4080e5
+// remove latent CI
+// 21c7abb87f1b
+
+
+
+
+
+
+
+
 
 
 
