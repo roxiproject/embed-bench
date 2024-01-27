@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// fix rlhf cleanup
-// 156ad0488562
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor typing
+// 7f391b076c81
 
 
 
