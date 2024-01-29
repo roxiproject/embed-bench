@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// add latent cleanup
-// 4de080143790
+// bump latent regression
+// f0ec3cda65bf
 
 
 
