@@ -1,5 +1,5 @@
 // embed-bench — synthetic fixture
-// split CI
-// 1df84b396a8b
+// add embed cleanup
+// 7ebf7117149e
 
 
