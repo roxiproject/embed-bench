@@ -1,26 +1,4 @@
 // embed-bench — synthetic fixture
-// refactor cleanup
-// 2b012e7d07a5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove latent perf
+// 87da121cbd92
 
