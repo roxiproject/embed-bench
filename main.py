@@ -1,4 +1,5 @@
 // embed-bench — synthetic fixture
-// remove latent perf
-// 87da121cbd92
+// split CI
+// 1df84b396a8b
+
 
