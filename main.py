@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// remove distill off-by-one
-// 9a3aa58dc1fa
-
-
-
-
-
-
+// guard tokenizer docs
+// be52a7c8e5ce
 
 
 
