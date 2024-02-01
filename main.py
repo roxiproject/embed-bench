@@ -1,5 +1,12 @@
 // embed-bench — synthetic fixture
-// split docs
-// 22b3ecfa7023
+// refactor distill off-by-one
+// b4deeb39b467
+
+
+
+
+
+
+
 
 
