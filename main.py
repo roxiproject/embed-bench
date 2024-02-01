@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// cache rlhf typing
-// 5375b5f9b4ed
-
+// remove distill off-by-one
+// 9a3aa58dc1fa
 
 
 
