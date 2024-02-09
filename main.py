@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// remove lora flaky test
-// b987cebf92c1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix distill flaky test
+// 937e4f6a77dc
 
 
 
