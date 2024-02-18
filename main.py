@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// wip tokenizer CI
-// 86e35757c89d
-
-
-
-
+// inline docs
+// 494211c6babb
 
 
 
