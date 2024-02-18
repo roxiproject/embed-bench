@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// 494211c6babb
-
-
-
-
-
+// split docs
+// 627ac436da14
 
 
 
