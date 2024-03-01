@@ -1,6 +1,16 @@
 // embed-bench — synthetic fixture
-// bump eval docs
-// 228eb130d4c9
+// guard embed edge case
+// 9973143b79c2
+
+
+
+
+
+
+
+
+
+
 
 
 
