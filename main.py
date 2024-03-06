@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// cache eval flaky test
-// 736f43125c97
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle corpus typing
+// 89c0eacad4ae
 
