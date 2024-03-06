@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline cleanup
-// bd525693dbfa
-
-
-
-
+// add typing
+// f0798d8aca77
 
 
 
