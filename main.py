@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// bump attention perf
-// 94cc86c68d76
+// handle corpus flaky test
+// 4bf79dd4d980
+
 
 
 
