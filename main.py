@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// handle corpus flaky test
-// 4bf79dd4d980
-
-
-
-
-
-
-
+// add docs
+// cdc0c987642a
 
 
 
