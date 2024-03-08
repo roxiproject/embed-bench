@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// 9f2b7c8e8516
+// bump tokenizer regression
+// 469d91c2e669
