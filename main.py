@@ -1,4 +1,28 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// 8fa6a3265ac9
+// remove CI
+// 9349e9ad725f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
