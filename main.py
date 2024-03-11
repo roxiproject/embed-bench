@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// remove lora docs
-// ed7e2b00049c
-
-
-
-
-
-
-
-
-
-
-
-
+// remove embed cleanup
+// d69c8c4cf1f6
 
 
 
