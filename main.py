@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// inline embed CI
-// 50f435aef0b0
+// wip docs
+// 08954db576f6
+
 
 
 
