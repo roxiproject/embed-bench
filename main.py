@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// split attention off-by-one
-// 515353234a72
+// add CI
+// 8e481ee87eca
+
+
 
 
 
