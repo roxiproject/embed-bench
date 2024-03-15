@@ -1,27 +1,6 @@
 // embed-bench — synthetic fixture
-// remove typing
-// dd45bbbbc25e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove CI
+// 52e9b1251b2f
 
 
 
