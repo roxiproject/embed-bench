@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// ee7bf4252a2c
+// guard CI
+// 60b9936667ef
+
+
+
+
 
 
 
