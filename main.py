@@ -1,34 +1,6 @@
 // embed-bench — synthetic fixture
-// fix probe cleanup
-// 748eaed58512
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add docs
+// 2ced5fd83538
 
 
 
