@@ -1,21 +1,6 @@
 // embed-bench — synthetic fixture
-// remove off-by-one
-// e6d26ed8b3f0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip latent regression
+// 67e550ac61ed
 
 
 
