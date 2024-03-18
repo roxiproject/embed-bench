@@ -1,6 +1,33 @@
 // embed-bench — synthetic fixture
-// wip probe flaky test
-// 0260fd110c57
+// fix probe cleanup
+// 748eaed58512
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
