@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// 3c2ba23ae2b5
+// fix tokenizer edge case
+// 0431b6f506ec
+
+
 
 
 
