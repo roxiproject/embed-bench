@@ -1,17 +1,3 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// 72a01afd42b2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor docs
+// 1fa8fcb51a70
