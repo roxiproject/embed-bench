@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// fix typing
-// 46707549da67
+// handle latent regression
+// 247e9ecfeb0c
+
+
+
+
+
+
+
+
+
 
 
 
