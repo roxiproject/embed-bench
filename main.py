@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 55dc809f581d
-
-
-
-
+// fix typing
+// 46707549da67
 
 
 
