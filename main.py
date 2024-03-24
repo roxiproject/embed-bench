@@ -1,27 +1,5 @@
 // embed-bench — synthetic fixture
-// inline latent regression
-// 9a786287d39b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump lora perf
+// 68d0f9818806
 
 
