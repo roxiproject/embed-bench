@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// inline cleanup
-// 17977b09e1f1
+// inline latent regression
+// 9a786287d39b
+
+
+
+
+
+
 
 
 
