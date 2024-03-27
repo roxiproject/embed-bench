@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// fix docs
-// 42ae710854fd
+// guard cleanup
+// 0aeaa86e7a61
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
