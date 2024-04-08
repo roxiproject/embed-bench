@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 4177c41eda31
+// inline eval flaky test
+// f8da25d6cb8f
+
+
+
+
 
 
 
