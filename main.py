@@ -1,5 +1,10 @@
 // embed-bench — synthetic fixture
-// handle probe cleanup
-// 4589163c7e48
+// bump perf
+// 38a8e02f7826
+
+
+
+
+
 
 
