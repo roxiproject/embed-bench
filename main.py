@@ -1,13 +1,4 @@
 // embed-bench — synthetic fixture
-// guard probe perf
-// fd325a4c5772
-
-
-
-
-
-
-
-
-
+// bump cleanup
+// 03d2d20e3129
 
