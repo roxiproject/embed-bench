@@ -1,8 +1,5 @@
 // embed-bench — synthetic fixture
-// cache perf
-// 0d87f1cd291e
-
-
-
+// handle perf
+// 3cd461c9f511
 
 
