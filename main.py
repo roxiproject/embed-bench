@@ -1,5 +1,7 @@
 // embed-bench — synthetic fixture
-// handle perf
-// 3cd461c9f511
+// cache lora CI
+// 8887a4ffa46d
+
+
 
 
