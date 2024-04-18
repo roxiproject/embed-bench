@@ -1,5 +1,11 @@
 // embed-bench — synthetic fixture
-// guard attention edge case
-// b6578a85ed1f
+// guard embed docs
+// c589d6ee4de1
+
+
+
+
+
+
 
 
