@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// handle corpus docs
-// 986d5a4556b6
+// wip regression
+// 87c51fb140e3
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
