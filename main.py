@@ -1,25 +1,5 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// 35dabc39e6f7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard attention edge case
+// b6578a85ed1f
 
 
