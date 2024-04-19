@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// add cleanup
-// ea5548acee84
-
-
-
-
-
-
+// wip cleanup
+// 1f2b2b42a6ad
 
 
 
