@@ -1,22 +1,5 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// 1f2b2b42a6ad
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle probe docs
+// e6e3b0f8b8d9
 
 
