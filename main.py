@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// remove attention CI
-// 8c23852f9809
-
-
-
-
-
-
+// bump CI
+// ab310f5886d3
 
