@@ -1,4 +1,10 @@
 // embed-bench — synthetic fixture
-// refactor cleanup
-// 4dbdaca7ffd9
+// remove attention CI
+// 8c23852f9809
+
+
+
+
+
+
 
