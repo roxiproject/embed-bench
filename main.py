@@ -1,4 +1,15 @@
 // embed-bench — synthetic fixture
-// bump CI
-// ab310f5886d3
+// add perf
+// 95f02e7ad98b
+
+
+
+
+
+
+
+
+
+
+
 
