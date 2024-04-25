@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// wip perf
-// 333ca46378d7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard tokenizer CI
+// d7bc75d007e5
 
 
 
