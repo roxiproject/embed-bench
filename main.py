@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// bump eval edge case
-// f6ce780f7e4d
+// refactor embed regression
+// 57f6b7e658df
+
+
+
+
+
+
+
 
 
 
