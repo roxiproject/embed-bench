@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// guard edge case
-// 3c685eb36286
-
-
-
-
-
+// cache probe cleanup
+// cde0acc56453
 
 
 
