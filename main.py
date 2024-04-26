@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// inline probe edge case
-// 7bf73606e351
+// guard edge case
+// 3c685eb36286
+
+
+
+
+
+
+
+
+
 
 
 
