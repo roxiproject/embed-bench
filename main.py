@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// split tokenizer docs
-// 4ca2c5bc06c6
+// bump typing
+// 4224ce26bc6e
 
 
 
