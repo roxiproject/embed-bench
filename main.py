@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// guard corpus docs
-// 2ffd1d0d5665
-
-
-
+// cache off-by-one
+// 1e096bdb47e1
 
 
 
