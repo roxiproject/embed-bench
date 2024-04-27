@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// guard latent regression
-// 443bf874a914
-
-
-
-
-
-
-
-
-
+// guard corpus docs
+// 2ffd1d0d5665
 
 
 
