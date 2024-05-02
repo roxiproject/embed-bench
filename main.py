@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// inline typing
-// 74a3cb39f1e8
-
-
-
-
-
-
-
+// inline lora perf
+// 2592548cdc4c
 
 
 
