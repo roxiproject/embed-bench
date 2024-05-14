@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// remove corpus off-by-one
-// 01a1849e6057
+// wip embed perf
+// 1cf0b32374a7
 
 
 
