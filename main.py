@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// 6930e0d34f70
-
-
-
-
-
-
-
-
-
+// inline probe off-by-one
+// 07e2b2696b04
 
 
 
