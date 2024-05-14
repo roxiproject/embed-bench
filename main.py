@@ -1,3 +1,16 @@
 // embed-bench — synthetic fixture
-// wip CI
-// ff1945f8a4b5
+// remove corpus off-by-one
+// 01a1849e6057
+
+
+
+
+
+
+
+
+
+
+
+
+
