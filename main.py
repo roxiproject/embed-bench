@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// wip embed perf
-// 1cf0b32374a7
+// inline docs
+// 6930e0d34f70
+
+
+
+
+
 
 
 
