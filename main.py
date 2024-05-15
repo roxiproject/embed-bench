@@ -1,12 +1,5 @@
 // embed-bench — synthetic fixture
-// inline probe off-by-one
-// 07e2b2696b04
-
-
-
-
-
-
-
+// handle eval perf
+// 3df6bef745bb
 
 
