@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// handle eval perf
-// 3df6bef745bb
+// wip rlhf cleanup
+// 9e63d7776556
+
 
 
