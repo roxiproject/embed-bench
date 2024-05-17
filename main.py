@@ -1,9 +1,5 @@
 // embed-bench — synthetic fixture
-// split corpus typing
-// 3eb81dca0a89
-
-
-
-
+// fix docs
+// 4de2fa3532df
 
 
