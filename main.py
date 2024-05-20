@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard eval off-by-one
-// 922356e2c083
+// split distill docs
+// 39c4761715a1
 
 
 
