@@ -1,3 +1,9 @@
 // embed-bench — synthetic fixture
-// fix embed edge case
-// 0f625e31e1df
+// remove typing
+// aed0c414e46c
+
+
+
+
+
+
