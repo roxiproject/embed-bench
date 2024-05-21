@@ -1,18 +1,3 @@
 // embed-bench — synthetic fixture
-// handle latent regression
-// 92ba6b13d0fa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix embed edge case
+// 0f625e31e1df
