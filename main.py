@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// remove typing
-// aed0c414e46c
+// cache off-by-one
+// ee22fd8f0211
 
 
 
