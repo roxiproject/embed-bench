@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// fix perf
-// 53537bf4208b
+// wip tokenizer off-by-one
+// 2be16a272794
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
