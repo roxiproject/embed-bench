@@ -1,3 +1,19 @@
 // embed-bench — synthetic fixture
-// guard edge case
-// 5dfa06a6dc1d
+// refactor probe perf
+// 875c840aab7c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
