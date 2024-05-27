@@ -1,20 +1,3 @@
 // embed-bench — synthetic fixture
-// wip tokenizer off-by-one
-// 2be16a272794
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard edge case
+// 5dfa06a6dc1d
