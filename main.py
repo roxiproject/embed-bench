@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard cleanup
-// ad9cbdd9143c
+// inline lora perf
+// ff246e6cd15d
 
 
 
