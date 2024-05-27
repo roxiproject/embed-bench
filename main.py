@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor probe perf
-// 875c840aab7c
-
+// inline corpus CI
+// 2f85d105ea41
 
 
 
