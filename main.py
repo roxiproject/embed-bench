@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// inline lora perf
-// ff246e6cd15d
-
+// wip latent edge case
+// 04a38cf288ef
 
 
 
