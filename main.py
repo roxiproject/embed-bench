@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// 75147e78c1c6
-
-
-
-
-
-
+// wip corpus CI
+// 982093932c9d
 
 
 
