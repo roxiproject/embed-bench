@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// wip latent edge case
-// 04a38cf288ef
+// add off-by-one
+// 75147e78c1c6
+
+
+
+
+
+
+
 
 
 
