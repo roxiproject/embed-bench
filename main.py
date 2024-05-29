@@ -1,12 +1,5 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// 1800b5751aac
-
-
-
-
-
-
-
+// wip corpus cleanup
+// 92612551288a
 
 
