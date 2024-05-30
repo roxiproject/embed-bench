@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// handle eval cleanup
-// 6d6e53c48758
-
-
-
-
+// handle eval regression
+// 3ed5c156f15f
 
 
 
