@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// add attention cleanup
-// 0e63c5adadcf
-
-
-
-
-
-
-
-
-
+// remove tokenizer docs
+// 54b77cf6614f
 
 
 
