@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// cache docs
-// 0c295b658b5e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline embed flaky test
+// 8b96bce9d3d8
 
 
 
