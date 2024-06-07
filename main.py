@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// split corpus regression
-// 6c282b3bf35c
-
-
-
-
+// handle perf
+// ceeef404f80b
 
 
 
