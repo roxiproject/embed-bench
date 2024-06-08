@@ -1,3 +1,5 @@
 // embed-bench — synthetic fixture
-// guard tokenizer typing
-// ffff5c8e61bc
+// handle flaky test
+// 87797b67af1e
+
+
