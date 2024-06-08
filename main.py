@@ -1,8 +1,3 @@
 // embed-bench — synthetic fixture
-// handle perf
-// ceeef404f80b
-
-
-
-
-
+// guard tokenizer typing
+// ffff5c8e61bc
