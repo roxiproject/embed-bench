@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// fe3ea1962368
-
-
-
+// add probe docs
+// 82a5ae76aa22
 
 
 
