@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// guard latent docs
-// 0935f0e77452
-
-
+// bump tokenizer edge case
+// c1c966533577
 
 
 
