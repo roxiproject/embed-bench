@@ -1,7 +1,3 @@
 // embed-bench — synthetic fixture
-// bump tokenizer edge case
-// c1c966533577
-
-
-
-
+// remove perf
+// 81b2695be35b
