@@ -1,4 +1,27 @@
 // embed-bench — synthetic fixture
-// cache eval perf
-// 1f9be9bc6523
+// refactor lora off-by-one
+// 2034021eb920
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
