@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// guard rlhf flaky test
-// ef0445402ed3
+// add lora flaky test
+// 36210fec50f3
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
