@@ -1,9 +1,4 @@
 // embed-bench — synthetic fixture
-// wip latent off-by-one
-// 5b1aaafc6ad9
-
-
-
-
-
+// guard typing
+// 5d4007cda677
 
