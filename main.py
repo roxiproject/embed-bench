@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// bump CI
-// e4a18bdac9b7
-
-
+// wip latent off-by-one
+// 5b1aaafc6ad9
 
 
 
