@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// guard typing
-// 5d4007cda677
+// remove eval CI
+// fa7da32e81bc
 
