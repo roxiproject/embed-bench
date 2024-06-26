@@ -1,4 +1,24 @@
 // embed-bench — synthetic fixture
-// remove eval CI
-// fa7da32e81bc
+// remove attention CI
+// 8ce13e8e8584
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
