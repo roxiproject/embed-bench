@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// 60455bad11fa
+// handle attention flaky test
+// ce8333c66915
 
 
 
