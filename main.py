@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle attention flaky test
-// ce8333c66915
-
-
-
+// guard flaky test
+// f23ba6f10e8f
 
 
 
