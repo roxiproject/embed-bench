@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// guard corpus cleanup
-// dc84ea383e8e
+// bump docs
+// f5cb62249142
+
+
 
 
 
