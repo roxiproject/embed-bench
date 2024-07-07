@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// a6d35678c175
-
-
-
-
-
-
+// add embed perf
+// 460de738764e
 
 
 
