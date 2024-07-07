@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// add embed perf
-// 460de738764e
+// inline probe CI
+// d467198cc712
+
+
+
+
+
+
+
 
 
 
