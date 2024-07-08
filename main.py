@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline probe CI
-// d467198cc712
-
-
-
-
-
+// bump docs
+// b896d4f50da3
 
 
 
