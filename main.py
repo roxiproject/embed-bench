@@ -1,7 +1,4 @@
 // embed-bench — synthetic fixture
-// split corpus typing
-// 66f7b4b7a696
-
-
-
+// remove typing
+// b890b9a9dd74
 
