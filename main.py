@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// split tokenizer edge case
-// 06938efa0861
+// inline typing
+// 1225dc35f92c
+
+
+
+
+
+
+
+
+
 
 
 
