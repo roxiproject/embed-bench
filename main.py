@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// inline typing
-// 1225dc35f92c
-
-
-
-
-
-
-
-
-
+// guard probe edge case
+// c65f2bad104e
 
 
 
