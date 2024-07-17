@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// 0ea5d6ffdde4
+// fix probe docs
+// 4db6f37d414f
+
+
 
 
 
