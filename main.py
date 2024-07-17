@@ -1,27 +1,6 @@
 // embed-bench — synthetic fixture
-// cache docs
-// a41a7ab20269
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip cleanup
+// 0ea5d6ffdde4
 
 
 
