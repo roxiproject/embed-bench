@@ -1,8 +1,3 @@
 // embed-bench — synthetic fixture
-// fix probe docs
-// 4db6f37d414f
-
-
-
-
-
+// handle docs
+// 3f926553850b
