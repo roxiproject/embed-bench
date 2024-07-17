@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// handle docs
-// 3f926553850b
+// handle CI
+// 8557f4cc8bb7
