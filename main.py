@@ -1,24 +1,3 @@
 // embed-bench — synthetic fixture
-// wip distill perf
-// 962fdf61e1c6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add lora perf
+// a58b41903855
