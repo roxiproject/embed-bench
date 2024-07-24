@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// split tokenizer perf
-// d2dd9e3435e3
+// wip distill perf
+// 962fdf61e1c6
+
+
+
+
+
+
+
+
+
+
+
 
 
 
