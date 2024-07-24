@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// cache docs
-// 6dc46291acc7
+// add embed perf
+// 88d91cf9b933
+
 
 
 
