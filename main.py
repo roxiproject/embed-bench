@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline tokenizer perf
-// bb7ca3183816
-
-
-
-
-
+// cache docs
+// 6dc46291acc7
 
 
 
