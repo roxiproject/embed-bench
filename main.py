@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// add embed perf
-// 88d91cf9b933
-
+// split tokenizer perf
+// d2dd9e3435e3
 
 
 
