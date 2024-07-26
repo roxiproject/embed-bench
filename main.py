@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle CI
-// 6c3ee9621ac0
-
-
-
+// split lora off-by-one
+// 768153f7925e
 
 
 
