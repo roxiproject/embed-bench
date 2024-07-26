@@ -1,4 +1,16 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// ed0acc3e9fb0
+// handle CI
+// 6c3ee9621ac0
+
+
+
+
+
+
+
+
+
+
+
+
 
