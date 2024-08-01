@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// remove corpus perf
-// e55dbe62c74d
+// handle eval typing
+// 712d6cedaf48
+
+
+
+
+
+
 
 
 
