@@ -1,8 +1,5 @@
 // embed-bench — synthetic fixture
-// bump lora cleanup
-// 6c026b355d76
-
-
-
+// refactor docs
+// e44ac45d8830
 
 
