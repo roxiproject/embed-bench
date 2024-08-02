@@ -1,3 +1,8 @@
 // embed-bench — synthetic fixture
-// add lora flaky test
-// 025e110de125
+// bump lora cleanup
+// 6c026b355d76
+
+
+
+
+
