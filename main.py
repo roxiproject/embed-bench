@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// remove perf
-// d06a0e27cbe0
-
-
-
-
-
-
-
-
-
-
-
+// refactor corpus cleanup
+// 08271686c347
 
 
 
