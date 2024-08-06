@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor corpus cleanup
-// 08271686c347
-
-
-
+// add off-by-one
+// 09894be66eaa
 
 
 
