@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline attention perf
-// 7974b0caab08
-
-
-
-
-
+// inline regression
+// 0bd1086013e8
 
 
 
