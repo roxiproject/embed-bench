@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// 09894be66eaa
+// inline attention perf
+// 7974b0caab08
+
+
 
 
 
