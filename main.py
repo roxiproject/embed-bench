@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// split CI
-// 5e541f32910f
-
-
-
-
+// fix embed flaky test
+// 499ff7df2f3f
 
 
 
