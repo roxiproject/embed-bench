@@ -1,8 +1,4 @@
 // embed-bench — synthetic fixture
-// bump rlhf perf
-// 92edc5f42bf6
-
-
-
-
+// add probe CI
+// 8d0ed0a56ed2
 
