@@ -1,21 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor perf
-// 762d7915fea9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip off-by-one
+// be5addebf164
 
 
 
