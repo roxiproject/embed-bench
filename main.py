@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// refactor probe edge case
-// 02cef802e4c4
+// split embed perf
+// 63c56906c41b
+
+
+
+
+
+
 
 
 
