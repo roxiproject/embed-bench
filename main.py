@@ -1,6 +1,30 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// be5addebf164
+// guard attention off-by-one
+// efd1f958a154
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
