@@ -1,6 +1,32 @@
 // embed-bench — synthetic fixture
-// split distill typing
-// de82087a2f25
+// handle attention typing
+// 9822f5be7631
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
