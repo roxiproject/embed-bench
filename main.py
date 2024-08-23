@@ -1,24 +1,4 @@
 // embed-bench — synthetic fixture
-// wip docs
-// dcf02359be23
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove corpus off-by-one
+// 34e3b887f53f
 
