@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// remove corpus off-by-one
-// 34e3b887f53f
+// refactor tokenizer flaky test
+// 68950dfd3e5e
 
