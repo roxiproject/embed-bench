@@ -1,4 +1,10 @@
 // embed-bench — synthetic fixture
-// refactor tokenizer flaky test
-// 68950dfd3e5e
+// handle off-by-one
+// 54fcf01469c3
+
+
+
+
+
+
 
