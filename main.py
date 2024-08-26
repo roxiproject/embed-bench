@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// cache corpus off-by-one
-// 5908630816cf
-
-
-
-
-
-
-
+// fix distill regression
+// b69d9d3beafc
 
