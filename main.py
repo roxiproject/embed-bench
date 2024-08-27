@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// cache latent CI
-// 0438e848d989
-
-
-
-
-
-
-
+// split probe off-by-one
+// bcb2bb4bf563
 
 
 
