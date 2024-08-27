@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// guard eval perf
-// 1455a377a423
+// inline embed typing
+// 329dbfa00961
+
+
+
 
 
 
