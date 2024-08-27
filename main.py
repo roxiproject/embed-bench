@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// fix corpus cleanup
-// aa807305b00f
+// cache latent CI
+// 0438e848d989
+
+
+
+
+
 
 
 
