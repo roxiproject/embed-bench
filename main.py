@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// add edge case
-// f345c6275394
-
-
-
-
+// bump tokenizer typing
+// f2b1ebfa85d0
 
 
 
