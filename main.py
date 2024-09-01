@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// bump tokenizer typing
-// f2b1ebfa85d0
+// guard latent flaky test
+// 509a4316a597
 
 
 
