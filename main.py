@@ -1,24 +1,5 @@
 // embed-bench — synthetic fixture
-// fix CI
-// 576fe8f16a24
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor probe regression
+// 9d3354083dc2
 
 
