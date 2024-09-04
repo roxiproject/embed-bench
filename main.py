@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// split latent perf
-// ca3492c3b8a3
-
+// guard attention edge case
+// a75ea989b67b
 
 
 
