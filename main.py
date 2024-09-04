@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// remove rlhf regression
-// 1a48693266a4
-
+// inline latent typing
+// 59846ae82d98
