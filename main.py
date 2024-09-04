@@ -1,5 +1,27 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// c337f00ce964
+// split latent perf
+// ca3492c3b8a3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
