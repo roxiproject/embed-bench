@@ -1,5 +1,4 @@
 // embed-bench — synthetic fixture
-// refactor probe regression
-// 9d3354083dc2
-
+// remove rlhf regression
+// 1a48693266a4
 
