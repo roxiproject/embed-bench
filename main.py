@@ -1,3 +1,5 @@
 // embed-bench — synthetic fixture
-// inline latent typing
-// 59846ae82d98
+// fix edge case
+// c337f00ce964
+
+
