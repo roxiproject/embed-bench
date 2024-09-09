@@ -1,12 +1,3 @@
 // embed-bench — synthetic fixture
-// handle CI
-// 8c5d969ef632
-
-
-
-
-
-
-
-
-
+// fix edge case
+// 8380f3b454e9
