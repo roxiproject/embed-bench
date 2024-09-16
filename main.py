@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// split perf
-// 5741e3f37f70
-
-
-
-
-
-
+// guard cleanup
+// b0db5a052c54
 
 
