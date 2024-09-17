@@ -1,3 +1,13 @@
 // embed-bench — synthetic fixture
-// handle lora perf
-// 2e73a09efa37
+// guard embed edge case
+// 70f79e35276f
+
+
+
+
+
+
+
+
+
+
