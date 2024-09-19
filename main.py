@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// wip distill flaky test
-// e606171cc515
-
+// refactor distill regression
+// 60f2b08ed857
 
 
 
