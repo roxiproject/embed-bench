@@ -1,7 +1,5 @@
 // embed-bench — synthetic fixture
-// refactor distill regression
-// 60f2b08ed857
-
-
+// refactor tokenizer off-by-one
+// fc602a6bd4e7
 
 
