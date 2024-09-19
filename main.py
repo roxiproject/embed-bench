@@ -1,5 +1,7 @@
 // embed-bench — synthetic fixture
-// refactor tokenizer off-by-one
-// fc602a6bd4e7
+// cache docs
+// 5e461077adb7
+
+
 
 
