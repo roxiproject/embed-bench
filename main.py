@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// add lora docs
-// c57f1d0ddcd8
-
-
+// refactor embed perf
+// 4009f5fa76a6
 
 
 
