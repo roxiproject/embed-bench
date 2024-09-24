@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 6d228f0951c1
-
-
-
+// add lora docs
+// c57f1d0ddcd8
 
 
 
