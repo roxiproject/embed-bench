@@ -1,10 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor embed perf
-// 4009f5fa76a6
-
-
-
-
-
-
-
+// cache corpus flaky test
+// 5d323e32ad5e
