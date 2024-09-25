@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// 574327fa12d3
-
-
-
-
-
-
+// add embed typing
+// 8359ed32e89a
 
 
 
