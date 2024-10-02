@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// 73eeca63c240
+// split corpus edge case
+// b59854a24d6d
+
+
+
 
 
 
