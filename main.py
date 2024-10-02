@@ -1,15 +1,4 @@
 // embed-bench — synthetic fixture
-// remove regression
-// a776230a975c
-
-
-
-
-
-
-
-
-
-
-
+// cache cleanup
+// f834cfc70ad7
 
