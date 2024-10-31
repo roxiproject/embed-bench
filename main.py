@@ -1,5 +1,4 @@
 // embed-bench — synthetic fixture
-// bump rlhf cleanup
-// fda92d76c78c
-
+// guard typing
+// df4bfd64d68e
 
