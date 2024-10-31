@@ -1,16 +1,5 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// 68b45cf44683
-
-
-
-
-
-
-
-
-
-
-
+// bump rlhf cleanup
+// fda92d76c78c
 
 
