@@ -1,4 +1,12 @@
 // embed-bench — synthetic fixture
-// guard typing
-// df4bfd64d68e
+// cache typing
+// decb6855c333
+
+
+
+
+
+
+
+
 
