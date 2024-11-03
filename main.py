@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// wip eval edge case
-// 0b55c3dae1cc
+// guard latent off-by-one
+// ded0c5248147
+
+
+
+
 
 
 
