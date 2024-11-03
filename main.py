@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// refactor edge case
-// 13384cb90a72
+// guard typing
+// 07feef4c1987
+
+
+
+
+
 
 
 
