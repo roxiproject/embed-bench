@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// inline regression
-// 793354c94f94
+// wip eval edge case
+// 0b55c3dae1cc
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
