@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard latent off-by-one
-// ded0c5248147
+// inline flaky test
+// 9d9f31109f9f
 
 
 
