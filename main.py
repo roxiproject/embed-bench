@@ -1,10 +1,5 @@
 // embed-bench — synthetic fixture
-// cache attention docs
-// 92f14bdd397d
-
-
-
-
-
+// refactor perf
+// 9869e190d5a4
 
 
