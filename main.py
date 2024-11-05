@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// e9f2efc7ee74
-
-
-
-
-
-
-
+// remove embed docs
+// ee44349613d8
 
