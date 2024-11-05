@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// inline flaky test
-// 9d9f31109f9f
-
-
-
+// guard eval CI
+// 4e60ead2867a
 
 
 
