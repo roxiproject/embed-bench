@@ -1,4 +1,9 @@
 // embed-bench — synthetic fixture
-// remove embed docs
-// ee44349613d8
+// refactor off-by-one
+// 18615f9a120d
+
+
+
+
+
 
