@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor embed CI
-// d3a0046b7b05
-
-
-
+// fix edge case
+// e9f2efc7ee74
 
 
 
