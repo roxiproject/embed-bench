@@ -1,21 +1,6 @@
 // embed-bench — synthetic fixture
-// cache probe off-by-one
-// 9f1951703ed7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor embed CI
+// d3a0046b7b05
 
 
 
