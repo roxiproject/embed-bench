@@ -1,5 +1,29 @@
 // embed-bench — synthetic fixture
-// refactor perf
-// 9869e190d5a4
+// cache probe off-by-one
+// 9f1951703ed7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
