@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor typing
-// f11ed0a0aaa0
-
-
-
-
-
-
-
-
+// remove off-by-one
+// 63d03060b818
 
 
 
