@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// handle latent CI
-// 7cfa594952dc
-
+// guard distill flaky test
+// e9f8ea1b88a7
 
 
 
