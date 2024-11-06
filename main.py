@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// cabdd7542921
-
-
-
-
-
-
-
+// refactor eval regression
+// 677cb801ff7e
 
 
 
