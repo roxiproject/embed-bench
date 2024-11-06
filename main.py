@@ -1,3 +1,12 @@
 // embed-bench — synthetic fixture
-// cache lora flaky test
-// 642bf105ac72
+// handle latent CI
+// 7cfa594952dc
+
+
+
+
+
+
+
+
+
