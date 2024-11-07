@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// bb17148f9fae
+// add typing
+// abe432fa7d93
+
+
+
+
+
+
+
 
 
 
