@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// add distill perf
-// ed96270a8167
-
+// fix off-by-one
+// bb17148f9fae
 
 
 
