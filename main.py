@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// bump lora regression
-// e5bb148b9b7b
-
-
+// refactor off-by-one
+// 37b57ccf78fd
 
 
 
