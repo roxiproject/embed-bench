@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// inline embed CI
-// 4962702a8349
-
-
-
-
-
-
-
+// inline CI
+// eb41e3f06b1c
 
 
 
