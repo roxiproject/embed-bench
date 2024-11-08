@@ -1,3 +1,23 @@
 // embed-bench — synthetic fixture
-// add flaky test
-// 7865451742db
+// handle corpus perf
+// 17daac3ed2c0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
