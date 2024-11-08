@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// remove latent off-by-one
-// a35bc43f5069
-
-
-
-
-
-
-
-
-
+// fix lora typing
+// ef195304f80c
 
 
 
