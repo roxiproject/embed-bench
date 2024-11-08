@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// remove latent perf
-// 91ac830b83a3
-
+// inline lora flaky test
+// 1ebbc4ea4361
 
 
 
