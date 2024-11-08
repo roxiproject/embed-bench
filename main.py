@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// bump probe typing
-// 2689e3bd825f
-
-
-
-
-
-
-
-
-
-
+// handle latent regression
+// 278bfb80493f
 
 
 
