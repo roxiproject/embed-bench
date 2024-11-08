@@ -1,6 +1,28 @@
 // embed-bench — synthetic fixture
-// inline lora flaky test
-// 1ebbc4ea4361
+// bump probe typing
+// 2689e3bd825f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
