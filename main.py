@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle latent regression
-// 278bfb80493f
-
-
-
+// add distill typing
+// cc0cabdf4ed8
 
 
 
