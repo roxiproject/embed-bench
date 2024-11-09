@@ -1,6 +1,16 @@
 // embed-bench — synthetic fixture
-// inline eval docs
-// 0c83270ace72
+// cache off-by-one
+// 56d519c5622a
+
+
+
+
+
+
+
+
+
+
 
 
 
