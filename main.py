@@ -1,18 +1,3 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 43c207728767
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard regression
+// 0cb4e73ef8c9
