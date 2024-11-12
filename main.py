@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// bump regression
-// be03d6fe9dc7
+// guard lora cleanup
+// 3c2d8558c135
+
+
+
 
 
 
