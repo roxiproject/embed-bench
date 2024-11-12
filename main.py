@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// 094fb4cf6fa4
+// cache eval docs
+// e4324ea7d2b9
+
+
+
 
 
 
