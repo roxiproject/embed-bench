@@ -1,8 +1,4 @@
 // embed-bench — synthetic fixture
-// fix perf
-// 878014a160c5
-
-
-
-
+// bump distill cleanup
+// be43ab4cc2bc
 
