@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// 13dbfa42a17a
+// inline attention regression
+// e5c64a8e606b
+
+
 
 
 
