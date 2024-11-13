@@ -1,3 +1,10 @@
 // embed-bench — synthetic fixture
-// guard corpus typing
-// 19b071378919
+// inline perf
+// 84b5f0e11eeb
+
+
+
+
+
+
+
