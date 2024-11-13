@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// inline perf
-// 84b5f0e11eeb
-
-
-
+// fix cleanup
+// a7a7458abfc5
 
 
 
