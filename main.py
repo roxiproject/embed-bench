@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// guard tokenizer edge case
-// 40f1ba0eddfc
-
+// fix tokenizer cleanup
+// da3d38f32db9
 
 
 
