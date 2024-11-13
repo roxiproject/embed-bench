@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// bump regression
-// c9570b791268
-
-
-
-
-
-
+// bump edge case
+// 3416ba0edfa5
 
 
 
