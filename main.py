@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// inline embed edge case
-// 4f2befbedf63
+// guard tokenizer edge case
+// 40f1ba0eddfc
+
 
 
 
