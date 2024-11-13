@@ -1,15 +1,3 @@
 // embed-bench — synthetic fixture
-// split perf
-// e00d02ba520f
-
-
-
-
-
-
-
-
-
-
-
-
+// guard corpus typing
+// 19b071378919
