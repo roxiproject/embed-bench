@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// bump regression
-// 7a7029de1cc3
-
-
-
-
-
-
-
-
-
+// inline latent perf
+// 9e2eb929082f
 
 
 
