@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// split probe cleanup
-// a53afecbb07b
+// wip rlhf off-by-one
+// 0e887d9eea2b
+
+
 
 
 
