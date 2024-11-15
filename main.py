@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor cleanup
-// e5baa2518208
-
-
+// guard corpus CI
+// b342b28f30a0
 
 
 
