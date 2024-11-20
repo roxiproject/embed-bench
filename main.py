@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// 68359318364d
-
-
+// fix regression
+// 4ac1fdaebdd1
 
 
 
