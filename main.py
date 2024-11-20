@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// inline distill flaky test
-// 2b28bacf77dc
+// wip distill off-by-one
+// 08f9fcf964c9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
