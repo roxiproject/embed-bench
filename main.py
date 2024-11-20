@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// fix regression
-// 4ac1fdaebdd1
+// inline cleanup
+// 89494b5ef4d6
+
+
+
+
+
+
+
 
 
 
