@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// cache latent off-by-one
-// 6059862aa45a
-
-
-
-
-
-
-
-
+// handle cleanup
+// 74ab649916ad
 
 
 
