@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor edge case
-// 1e1343286d7a
-
-
-
-
-
-
-
-
-
-
-
+// cache latent off-by-one
+// 6059862aa45a
 
 
 
