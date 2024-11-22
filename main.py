@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval typing
-// 5d127eefec69
+// cache corpus edge case
+// 7cf3de7e45ff
 
 
 
