@@ -1,7 +1,4 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// dd6f10ddb556
-
-
-
+// remove eval cleanup
+// b968179cef82
 
