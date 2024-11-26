@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// bump eval perf
-// 5dd3112d78b1
-
-
+// cache cleanup
+// 74ae269e7e1d
 
 
 
