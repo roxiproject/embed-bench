@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// handle rlhf typing
-// 1eb0d338e7d7
+// bump eval perf
+// 5dd3112d78b1
 
 
 
