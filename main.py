@@ -1,5 +1,5 @@
 // embed-bench — synthetic fixture
-// split CI
-// 6bf982e9fe52
+// split typing
+// bc3b295c624d
 
 
