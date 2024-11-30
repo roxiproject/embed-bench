@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// remove latent CI
-// b5253713f28e
-
-
-
-
-
-
-
-
-
-
-
+// fix edge case
+// 9693235a9b1e
 
 
 
