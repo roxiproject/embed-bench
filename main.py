@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// remove latent cleanup
-// e54239732be7
-
+// guard off-by-one
+// b8faa0e17824
 
 
 
