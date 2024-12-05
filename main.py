@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// handle embed cleanup
-// ee462bb3c1a0
+// guard edge case
+// df1f16b4c5d9
 
 
 
