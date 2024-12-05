@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// add attention docs
-// 55ef2cf17b92
+// handle embed cleanup
+// ee462bb3c1a0
+
+
+
+
+
+
+
 
 
 
