@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// bump distill edge case
-// 5330a0ad4e6f
+// add attention docs
+// 55ef2cf17b92
+
+
+
 
 
 
