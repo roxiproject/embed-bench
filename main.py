@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// guard edge case
-// df1f16b4c5d9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove embed off-by-one
+// 3990d4026fbc
 
