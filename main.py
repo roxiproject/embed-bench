@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// fix latent off-by-one
-// 316f25f62f93
-
-
-
-
-
+// split tokenizer off-by-one
+// 6fef474ee4cc
 
 
 
