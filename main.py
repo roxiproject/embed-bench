@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval typing
-// ec9c2f73fe74
-
-
-
-
-
-
-
+// wip corpus docs
+// dd3d3b757056
 
 
 
