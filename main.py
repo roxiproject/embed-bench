@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// 4f836906d890
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix latent off-by-one
+// 316f25f62f93
 
 
 
