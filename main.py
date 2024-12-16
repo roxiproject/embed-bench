@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// handle regression
-// e2dbdb1351f9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump probe edge case
+// 07e89a6d88ee
 
 
 
