@@ -1,24 +1,6 @@
 // embed-bench — synthetic fixture
-// cache regression
-// f76ebda85b4b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip off-by-one
+// f5431dcba073
 
 
 
