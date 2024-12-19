@@ -1,14 +1,4 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// f5431dcba073
-
-
-
-
-
-
-
-
-
-
+// handle corpus flaky test
+// d5a6de05ceb7
 
