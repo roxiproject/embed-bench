@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// guard CI
-// cf399a7cde6c
+// cache probe regression
+// d8bdff9c60df
+
+
 
 
 
