@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// cache edge case
-// 1f01b1073e42
+// add probe docs
+// d5a0c8726a15
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
