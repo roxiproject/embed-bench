@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// add probe docs
-// d5a0c8726a15
+// cache regression
+// f76ebda85b4b
+
 
 
 
