@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// split edge case
-// 77e6650d69a1
+// guard regression
+// 22aa7ac6caa0
+
 
 
 
