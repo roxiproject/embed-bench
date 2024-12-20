@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// refactor regression
-// 5e3804f93fdf
+// split edge case
+// 77e6650d69a1
+
 
 
 
