@@ -1,15 +1,5 @@
 // embed-bench — synthetic fixture
-// guard regression
-// 22aa7ac6caa0
-
-
-
-
-
-
-
-
-
-
+// refactor edge case
+// 8ac051327953
 
 
