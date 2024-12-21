@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// split attention perf
-// 01da0f75d394
-
-
-
-
-
-
-
-
-
-
-
-
+// inline tokenizer CI
+// 37af56b487b7
 
 
 
