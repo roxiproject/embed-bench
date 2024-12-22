@@ -1,29 +1,4 @@
 // embed-bench — synthetic fixture
-// cache docs
-// acc35cbf91c8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump tokenizer cleanup
+// 6768e332ea19
 
