@@ -1,20 +1,4 @@
 // embed-bench — synthetic fixture
-// cache lora regression
-// bd493815d8cd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache docs
+// a0bca2f31dd6
 
