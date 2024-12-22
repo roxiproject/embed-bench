@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// cache docs
-// a0bca2f31dd6
-
+// split regression
+// f1d59327ec73
