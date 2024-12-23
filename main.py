@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// cache embed docs
-// 3735c86218b0
+// guard off-by-one
+// 36ae294c301f
+
+
+
+
+
+
 
 
 
