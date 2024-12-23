@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// 36ae294c301f
-
-
-
-
+// wip distill CI
+// 893f2f075d5a
 
 
 
