@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor corpus edge case
-// afd6206c38cd
-
-
-
+// remove perf
+// 697b7407b20d
 
 
 
