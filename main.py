@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// add regression
-// 98f67da315f6
-
-
-
-
-
-
+// handle tokenizer docs
+// c34199bdf062
 
 
