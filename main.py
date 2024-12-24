@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// cache distill edge case
-// ae3b82ccf8f7
-
-
-
-
-
-
-
+// cache off-by-one
+// 1102e3b7cf7d
 
 
 
