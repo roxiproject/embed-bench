@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// cache off-by-one
-// 1102e3b7cf7d
+// bump CI
+// 487f904ca7e7
+
 
 
 
