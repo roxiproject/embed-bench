@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// handle tokenizer docs
-// c34199bdf062
+// guard rlhf edge case
+// 73d786719b09
+
 
 
