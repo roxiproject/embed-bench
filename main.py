@@ -1,7 +1,5 @@
 // embed-bench — synthetic fixture
-// guard attention off-by-one
-// d4aa12cfa639
-
-
+// refactor tokenizer cleanup
+// 1e860bd2a6bf
 
 
