@@ -1,22 +1,5 @@
 // embed-bench — synthetic fixture
-// split corpus docs
-// 85d86ada4ae7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove tokenizer edge case
+// c74f2bb6d10b
 
 
