@@ -1,3 +1,11 @@
 // embed-bench — synthetic fixture
-// fix attention flaky test
-// b120c2365384
+// cache probe cleanup
+// 0784d521ddc5
+
+
+
+
+
+
+
+
