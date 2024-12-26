@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// wip embed off-by-one
-// c6cf4d499d32
+// handle CI
+// c1b6e4879de6
+
+
+
+
+
+
+
+
+
+
+
 
 
 
