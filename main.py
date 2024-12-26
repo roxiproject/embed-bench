@@ -1,3 +1,9 @@
 // embed-bench — synthetic fixture
-// split probe typing
-// 6a5e35308bc1
+// fix attention edge case
+// cb222fe9ee96
+
+
+
+
+
+
