@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// fix attention edge case
-// cb222fe9ee96
-
-
-
+// refactor typing
+// c9d75b5b6aab
 
 
 
