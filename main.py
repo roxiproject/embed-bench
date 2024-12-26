@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// inline embed regression
-// 478dec0eb0a6
+// add embed flaky test
+// 2e590198479d
+
+
 
 
 
