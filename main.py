@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// fix latent perf
-// 4012d2a13423
+// handle eval typing
+// 64e55eaa3d1c
 
 
 
