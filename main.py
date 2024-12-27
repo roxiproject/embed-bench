@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// add distill CI
-// 5eab32250f29
+// guard corpus off-by-one
+// 46517baf8aa1
+
+
+
+
+
+
 
 
 
