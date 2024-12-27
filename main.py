@@ -1,16 +1,3 @@
 // embed-bench — synthetic fixture
-// guard corpus off-by-one
-// 46517baf8aa1
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard off-by-one
+// edb0d5dbf22d
