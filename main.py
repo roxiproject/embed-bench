@@ -1,3 +1,7 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// edb0d5dbf22d
+// cache perf
+// 36ac9c816856
+
+
+
+
