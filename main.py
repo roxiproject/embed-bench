@@ -1,6 +1,20 @@
 // embed-bench — synthetic fixture
-// wip regression
-// cab5b2e9d711
+// wip latent regression
+// 0ba07b066b68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
