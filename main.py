@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump lora flaky test
-// f56f9674cd79
-
-
-
+// cache embed edge case
+// 06e785634f8c
 
 
 
