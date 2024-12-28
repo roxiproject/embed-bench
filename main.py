@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// cache probe off-by-one
-// 129065c0a08e
+// bump lora flaky test
+// f56f9674cd79
+
+
+
+
+
 
 
 
