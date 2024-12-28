@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// cache CI
-// 5271f0f7b416
+// cache probe off-by-one
+// 129065c0a08e
+
+
+
 
 
 
