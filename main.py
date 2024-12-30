@@ -1,6 +1,24 @@
 // embed-bench — synthetic fixture
-// split probe cleanup
-// e4cf5a7cd0bf
+// refactor off-by-one
+// 067b52f9d3b7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
