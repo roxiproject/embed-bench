@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor off-by-one
-// 067b52f9d3b7
-
-
-
-
-
-
-
-
-
-
-
-
+// wip docs
+// 97f66db061eb
 
 
 
