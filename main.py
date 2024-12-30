@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// c43ab747ebc3
-
-
-
-
-
-
-
+// bump eval perf
+// aa0bfdeb7a8f
 
