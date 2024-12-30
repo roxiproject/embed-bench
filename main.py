@@ -1,28 +1,6 @@
 // embed-bench — synthetic fixture
-// handle corpus regression
-// 595f8bc005fc
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard rlhf off-by-one
+// 8fe10423d347
 
 
 
