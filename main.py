@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// handle eval flaky test
-// d3824a3d76de
-
-
-
-
-
-
+// bump tokenizer perf
+// 8777ab1d3ef0
 
 
 
