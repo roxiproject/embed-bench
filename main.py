@@ -1,6 +1,32 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// ca9f5e6b57ef
+// wip probe CI
+// a982fa89757b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
