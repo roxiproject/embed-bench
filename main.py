@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor typing
-// d77b9e844dbe
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline attention CI
+// f8c41ff7c212
 
 
 
