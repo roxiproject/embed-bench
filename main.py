@@ -1,4 +1,7 @@
 // embed-bench — synthetic fixture
-// bump eval perf
-// aa0bfdeb7a8f
+// split probe cleanup
+// e4cf5a7cd0bf
+
+
+
 
