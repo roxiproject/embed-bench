@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// bump tokenizer perf
-// 8777ab1d3ef0
+// wip cleanup
+// ca9f5e6b57ef
 
 
 
