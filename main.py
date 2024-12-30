@@ -1,7 +1,4 @@
 // embed-bench — synthetic fixture
-// guard rlhf off-by-one
-// 8fe10423d347
-
-
-
+// guard docs
+// 14eecd697f52
 
