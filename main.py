@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// cache embed CI
-// dd93c1aa579b
-
-
-
-
-
-
+// wip cleanup
+// c43ab747ebc3
 
 
 
