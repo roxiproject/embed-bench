@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// cache attention edge case
-// a8a366947161
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache docs
+// 795908952323
 
 
 
