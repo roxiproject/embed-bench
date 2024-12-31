@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// add distill cleanup
-// 0065e7ce1c51
-
+// guard typing
+// 9ddcd15dce64
 
 
 
