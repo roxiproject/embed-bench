@@ -1,4 +1,16 @@
 // embed-bench — synthetic fixture
-// remove distill flaky test
-// 7020ad2fdc62
+// inline CI
+// 95d72e56e7d6
+
+
+
+
+
+
+
+
+
+
+
+
 
