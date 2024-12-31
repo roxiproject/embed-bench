@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// ff9f693c3315
+// add lora cleanup
+// 0d01841332fc
+
 
 
 
