@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// wip CI
-// caff2304ca19
+// split eval docs
+// 8f1e3bfc96d5
+
+
 
 
 
