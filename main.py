@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// cache embed cleanup
-// ce00f440fa4a
-
-
-
+// bump distill off-by-one
+// 44235d2f4c90
 
 
 
