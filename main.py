@@ -1,3 +1,10 @@
 // embed-bench — synthetic fixture
-// cache latent off-by-one
-// 16024123d693
+// remove embed CI
+// f340fca09905
+
+
+
+
+
+
+
