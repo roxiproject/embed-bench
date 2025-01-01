@@ -1,21 +1,4 @@
 // embed-bench — synthetic fixture
-// inline typing
-// 0ec8da910ed2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix corpus off-by-one
+// 2c32887fa612
 
