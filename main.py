@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// bump latent perf
-// 13512bcc5167
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard corpus docs
+// 3e5563617e61
 
