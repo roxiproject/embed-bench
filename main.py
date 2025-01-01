@@ -1,4 +1,5 @@
 // embed-bench — synthetic fixture
-// guard corpus docs
-// 3e5563617e61
+// handle rlhf regression
+// 369487cb4ee6
+
 
