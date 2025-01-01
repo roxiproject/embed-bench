@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// remove embed CI
-// f340fca09905
-
-
-
-
-
-
+// fix latent flaky test
+// 2afaaf299c3a
 
