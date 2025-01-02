@@ -1,13 +1,5 @@
 // embed-bench — synthetic fixture
-// wip corpus CI
-// c4ee9db480d4
-
-
-
-
-
-
-
-
+// inline tokenizer edge case
+// 581ecf027675
 
 
