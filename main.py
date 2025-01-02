@@ -1,23 +1,4 @@
 // embed-bench — synthetic fixture
-// inline perf
-// 4fec280b9eaf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split latent typing
+// 474b05f1abf8
 
