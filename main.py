@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// add tokenizer typing
-// f5129a5297d4
-
+// guard edge case
+// 34da18fc76b2
 
 
 
