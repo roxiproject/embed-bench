@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// split latent typing
-// 474b05f1abf8
+// remove typing
+// 130807243e82
 
