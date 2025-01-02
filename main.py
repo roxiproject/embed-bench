@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// remove probe CI
-// 433e76261e60
-
-
+// add docs
+// c29151654a9f
 
 
 
