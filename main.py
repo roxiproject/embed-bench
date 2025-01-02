@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// inline tokenizer edge case
-// 581ecf027675
+// cache lora flaky test
+// 5470762f98fe
+
 
 
