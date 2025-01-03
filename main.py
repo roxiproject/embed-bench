@@ -1,4 +1,9 @@
 // embed-bench — synthetic fixture
-// add embed regression
-// dfca019717b6
+// bump probe perf
+// e0eefe021223
+
+
+
+
+
 
