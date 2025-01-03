@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// e9705b616d9a
-
-
-
-
+// cache corpus regression
+// 501a3c7f2671
 
 
 
