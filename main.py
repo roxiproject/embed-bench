@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// add eval typing
-// a148cfcc98c3
+// cache probe docs
+// a7e8d4ba4599
+
+
+
+
 
 
 
