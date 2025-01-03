@@ -1,6 +1,29 @@
 // embed-bench — synthetic fixture
-// cache probe docs
-// a7e8d4ba4599
+// inline embed docs
+// 015b109c020d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
