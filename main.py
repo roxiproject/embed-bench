@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// bump probe perf
-// e0eefe021223
+// inline typing
+// 7a17ca614ef2
 
 
 
