@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// cache corpus regression
-// 501a3c7f2671
+// fix corpus edge case
+// d1759b80bf47
+
+
+
+
+
+
+
+
+
+
+
 
 
 
