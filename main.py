@@ -1,32 +1,6 @@
 // embed-bench — synthetic fixture
-// inline embed docs
-// 015b109c020d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor docs
+// e9705b616d9a
 
 
 
