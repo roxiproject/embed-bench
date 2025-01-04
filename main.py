@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump off-by-one
-// 7499250593b5
-
-
-
+// inline latent typing
+// c9d5e9f6b3f4
 
 
 
