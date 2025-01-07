@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// handle CI
-// 3667eaeef1a8
-
-
+// add eval cleanup
+// db66474c4206
 
 
 
