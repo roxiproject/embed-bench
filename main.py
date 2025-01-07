@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// add distill CI
-// bceaf7e83d9f
-
-
-
-
-
+// guard CI
+// 0ced96490eb2
 
 
 
