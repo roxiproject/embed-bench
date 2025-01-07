@@ -1,27 +1,3 @@
 // embed-bench — synthetic fixture
-// guard regression
-// 1abf1d0cd8aa
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix latent flaky test
+// ff4223e39b00
