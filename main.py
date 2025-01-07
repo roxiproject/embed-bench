@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// fix distill CI
-// 0960d006aa40
-
-
-
-
+// handle CI
+// 3667eaeef1a8
 
 
 
