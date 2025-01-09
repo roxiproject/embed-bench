@@ -1,3 +1,4 @@
 // embed-bench — synthetic fixture
-// split rlhf edge case
-// b9f16aab9b5f
+// guard corpus CI
+// 7376bba2d477
+
