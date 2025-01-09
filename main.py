@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// handle typing
-// 2f9afad292f6
-
-
-
-
-
-
+// cache docs
+// e23b310d5213
 
 
