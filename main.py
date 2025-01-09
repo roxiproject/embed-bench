@@ -1,5 +1,21 @@
 // embed-bench — synthetic fixture
-// cache docs
-// e23b310d5213
+// split docs
+// 6d8aab4890df
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
