@@ -1,4 +1,21 @@
 // embed-bench — synthetic fixture
-// guard corpus CI
-// 7376bba2d477
+// handle corpus typing
+// b607699e083d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
