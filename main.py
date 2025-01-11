@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// split attention CI
-// 5d17788c8335
-
-
-
-
-
-
-
-
+// split probe cleanup
+// 63c88e741a55
 
 
 
