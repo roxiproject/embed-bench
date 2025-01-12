@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// split probe cleanup
-// 63c88e741a55
+// refactor edge case
+// cc4fd429c922
 
 
 
