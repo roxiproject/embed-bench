@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 83efbdc2a819
-
-
+// wip corpus CI
+// 4908090cc03d
 
