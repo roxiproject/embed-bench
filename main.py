@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// 326e977af14b
+// inline CI
+// 83efbdc2a819
+
 
 
