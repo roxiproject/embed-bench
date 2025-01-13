@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// add tokenizer regression
-// ce9e35492532
+// guard eval edge case
+// 9299b00ca9e8
+
+
+
+
+
+
 
 
 
