@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// guard eval edge case
-// 9299b00ca9e8
-
-
-
-
-
-
-
-
+// fix tokenizer flaky test
+// 568ddd1208cb
 
 
 
