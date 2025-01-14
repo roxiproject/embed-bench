@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// guard distill docs
-// 80ae23303b54
-
-
-
-
-
+// handle embed cleanup
+// 99036d77dc5b
 
 
 
