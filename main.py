@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// inline rlhf off-by-one
-// fcbd5ee80569
+// cache corpus docs
+// 6bb26d47d02a
 
 
 
