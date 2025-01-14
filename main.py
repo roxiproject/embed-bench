@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// handle embed cleanup
-// 99036d77dc5b
-
-
-
-
-
-
-
+// refactor distill cleanup
+// a97a90e887ef
 
