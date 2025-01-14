@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// handle probe typing
-// eafcc48f2f1e
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline rlhf off-by-one
+// fcbd5ee80569
 
 
 
