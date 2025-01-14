@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// cache distill perf
-// 5441bb6b3280
-
-
-
-
-
-
+// bump embed CI
+// 75361b696531
 
 
 
