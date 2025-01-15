@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache edge case
-// 724d990c4386
-
-
+// bump probe cleanup
+// 2e4fc36bd5c6
 
 
 
