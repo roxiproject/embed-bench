@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// bump probe cleanup
-// 2e4fc36bd5c6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump corpus docs
+// 47101982ad7b
 
 
 
