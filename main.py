@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// wip corpus docs
-// 52794c26321c
-
-
-
-
-
-
-
-
+// guard edge case
+// 5ef031da5e1f
 
 
 
