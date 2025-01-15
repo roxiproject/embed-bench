@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// wip attention regression
-// 9f396b102e59
-
-
-
-
-
-
-
+// split lora docs
+// fa55f52c1e66
 
 
 
