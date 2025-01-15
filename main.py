@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// cache corpus docs
-// 6bb26d47d02a
+// wip attention regression
+// 9f396b102e59
+
+
+
 
 
 
