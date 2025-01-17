@@ -1,6 +1,23 @@
 // embed-bench — synthetic fixture
-// add CI
-// d85206eeae7a
+// inline distill off-by-one
+// 06311f2f56ca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
