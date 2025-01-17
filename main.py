@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// handle lora typing
-// 1b49795fb1a1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix off-by-one
+// 85091aca43e1
 
 
 
