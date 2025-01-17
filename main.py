@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// add regression
-// 0317efb6c75d
-
-
-
-
-
-
-
-
+// add CI
+// d85206eeae7a
 
 
 
