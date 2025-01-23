@@ -1,35 +1,4 @@
 // embed-bench — synthetic fixture
-// inline distill docs
-// 0bfd76790e03
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add regression
+// 04eec627af70
 
