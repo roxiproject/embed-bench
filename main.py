@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// remove probe edge case
-// 7d339bdd2d1d
+// add latent regression
+// 875a004edb2a
+
+
+
 
 
 
