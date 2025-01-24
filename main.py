@@ -1,4 +1,10 @@
 // embed-bench — synthetic fixture
-// add regression
-// 04eec627af70
+// remove probe edge case
+// 7d339bdd2d1d
+
+
+
+
+
+
 
