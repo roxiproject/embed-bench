@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// refactor embed regression
-// 1b3354d3bc78
+// bump probe typing
+// 93765144d69f
+
+
+
 
 
 
