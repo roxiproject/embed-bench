@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// fix perf
-// 725c3e9960fa
+// add perf
+// edb260e6c383
+
+
+
+
+
 
 
 
