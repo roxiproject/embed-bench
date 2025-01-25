@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// wip corpus docs
-// 2068b17e0898
-
-
-
+// inline probe docs
+// a82edeeb9160
 
 
 
