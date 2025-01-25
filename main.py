@@ -1,9 +1,5 @@
 // embed-bench — synthetic fixture
-// bump perf
-// 3e55e2e160aa
-
-
-
-
+// bump docs
+// 4cb18c362164
 
 
