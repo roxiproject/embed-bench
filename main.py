@@ -1,9 +1,3 @@
 // embed-bench — synthetic fixture
-// fix regression
-// 1b881d4a3547
-
-
-
-
-
-
+// refactor eval regression
+// b854cca28b19
