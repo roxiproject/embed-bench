@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// add perf
-// edb260e6c383
-
+// add tokenizer docs
+// e233bfd636b1
 
 
 
