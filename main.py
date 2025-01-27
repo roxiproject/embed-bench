@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// add cleanup
-// e5ae36efa4e3
+// inline CI
+// 8e825dd4524a
+
+
+
+
 
 
 
