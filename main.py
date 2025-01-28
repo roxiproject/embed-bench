@@ -1,14 +1,3 @@
 // embed-bench — synthetic fixture
-// remove edge case
-// be2fe4813d60
-
-
-
-
-
-
-
-
-
-
-
+// wip docs
+// abfc6a039341
