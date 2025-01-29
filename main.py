@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// cache embed cleanup
-// 37c6864b6456
+// fix off-by-one
+// b5377664bc99
+
+
+
 
 
 
