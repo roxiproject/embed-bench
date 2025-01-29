@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// split attention cleanup
-// 898e426cec5f
+// cache embed cleanup
+// 37c6864b6456
+
+
 
 
 
