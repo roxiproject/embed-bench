@@ -1,3 +1,4 @@
 // embed-bench — synthetic fixture
-// wip docs
-// abfc6a039341
+// handle flaky test
+// 3ba256cc59a2
+
