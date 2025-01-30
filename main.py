@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor rlhf CI
-// d29a7f5dab62
-
-
-
-
+// guard eval edge case
+// 37275d7fa953
 
 
 
