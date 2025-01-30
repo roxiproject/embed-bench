@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// fix typing
-// ea2219d39e15
-
-
-
-
-
-
-
-
+// bump eval cleanup
+// f6cc7d3faabb
 
 
 
