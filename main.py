@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// bump eval cleanup
-// f6cc7d3faabb
+// add attention regression
+// 7acc6cad4822
+
+
+
 
 
 
