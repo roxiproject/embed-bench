@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// guard distill off-by-one
-// e82ee4ee8174
+// handle CI
+// 10f4f3ea34a1
+
+
+
+
+
 
 
 
