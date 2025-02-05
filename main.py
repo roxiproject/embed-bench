@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline probe docs
-// dfa8fd24e7c6
-
-
-
-
+// remove docs
+// 9b85d5dab74b
 
 
 
