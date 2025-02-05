@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// inline lora docs
-// 740f44791a77
-
-
-
-
-
-
-
-
-
-
-
-
+// fix corpus cleanup
+// 9676a3aafb96
 
 
 
