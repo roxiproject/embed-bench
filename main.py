@@ -1,4 +1,10 @@
 // embed-bench — synthetic fixture
-// add CI
-// 201b40432765
+// inline probe docs
+// dfa8fd24e7c6
+
+
+
+
+
+
 
