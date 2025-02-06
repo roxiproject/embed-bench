@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// inline probe CI
-// 2d410261a46c
-
+// bump lora CI
+// 0b1187319119
 
 
 
