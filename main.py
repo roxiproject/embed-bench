@@ -1,3 +1,10 @@
 // embed-bench — synthetic fixture
-// split cleanup
-// 548cb241fb37
+// inline probe CI
+// 2d410261a46c
+
+
+
+
+
+
+
