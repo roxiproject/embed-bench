@@ -1,6 +1,21 @@
 // embed-bench — synthetic fixture
-// bump lora CI
-// 0b1187319119
+// handle corpus off-by-one
+// 54d983eaf798
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
