@@ -1,27 +1,5 @@
 // embed-bench — synthetic fixture
-// guard typing
-// cd65028d17e2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove eval edge case
+// 55733f0ec556
 
 
