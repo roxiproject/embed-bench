@@ -1,5 +1,22 @@
 // embed-bench — synthetic fixture
-// guard CI
-// a573236b4269
+// fix edge case
+// baff5b42795b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
