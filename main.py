@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// cache tokenizer regression
-// d6d6ff5a0f10
+// wip docs
+// 14d0b9787e6d
+
+
 
 
 
