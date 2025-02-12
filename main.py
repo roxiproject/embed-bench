@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// guard distill perf
-// 67c020388cb3
+// cache docs
+// 57b8b4efa809
+
 
 
 
