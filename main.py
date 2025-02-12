@@ -1,3 +1,21 @@
 // embed-bench — synthetic fixture
-// remove attention regression
-// 102e60ec4012
+// cache lora perf
+// 1ab0bbcbb5a9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
