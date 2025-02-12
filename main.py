@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// cache docs
-// 57b8b4efa809
+// bump probe off-by-one
+// 5df6f8c68b6e
+
+
+
+
+
+
+
+
+
 
 
 
