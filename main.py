@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// split CI
-// 338868eae518
+// guard distill perf
+// 67c020388cb3
+
+
 
 
 
