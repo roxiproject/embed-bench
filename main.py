@@ -1,30 +1,3 @@
 // embed-bench — synthetic fixture
-// bump probe off-by-one
-// 5df6f8c68b6e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline perf
+// 7a5f4a7eed0c
