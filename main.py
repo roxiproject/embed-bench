@@ -1,21 +1,4 @@
 // embed-bench — synthetic fixture
-// cache lora perf
-// 1ab0bbcbb5a9
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline embed perf
+// 185c6ead37b3
 
