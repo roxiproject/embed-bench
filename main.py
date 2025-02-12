@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// handle flaky test
-// fde7703ea870
-
-
+// inline edge case
+// 85e70148377b
 
 
 
