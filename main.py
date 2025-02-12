@@ -1,4 +1,24 @@
 // embed-bench — synthetic fixture
-// inline embed perf
-// 185c6ead37b3
+// split regression
+// 55573015bf3a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
