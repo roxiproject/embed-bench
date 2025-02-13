@@ -1,12 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor regression
-// a4a6a509805f
-
-
-
-
-
-
-
-
-
+// guard latent CI
+// 2d736f45f23e
