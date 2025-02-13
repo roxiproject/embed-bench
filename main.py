@@ -1,3 +1,11 @@
 // embed-bench — synthetic fixture
-// remove tokenizer flaky test
-// 8bf0fe6fa04c
+// split corpus off-by-one
+// 89237127eeb3
+
+
+
+
+
+
+
+
