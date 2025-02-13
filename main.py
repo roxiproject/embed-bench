@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// handle embed docs
-// 35d4098d925c
-
-
-
-
-
-
+// cache tokenizer docs
+// a4a85f5cff07
 
 
