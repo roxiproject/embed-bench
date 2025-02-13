@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// add corpus docs
-// fa6cb199ca10
-
-
-
-
-
-
-
-
-
-
+// bump docs
+// 8fbb8c5e7a02
 
 
 
