@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// inline perf
-// edc10a275c4b
+// fix attention typing
+// bd2b47657bc5
 
 
 
