@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 0953312d583c
-
+// refactor corpus CI
+// 9adf87935148
 
 
 
