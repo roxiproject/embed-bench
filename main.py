@@ -1,3 +1,11 @@
 // embed-bench — synthetic fixture
-// guard latent CI
-// 2d736f45f23e
+// remove corpus edge case
+// 8c2826cf88f2
+
+
+
+
+
+
+
+
