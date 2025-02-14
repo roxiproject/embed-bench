@@ -1,11 +1,5 @@
 // embed-bench — synthetic fixture
-// handle corpus CI
-// e5f9c12e3b0a
-
-
-
-
-
-
+// wip distill CI
+// 8789587c8037
 
 
