@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// fix distill typing
-// b3c119f07547
-
-
-
-
-
-
+// refactor docs
+// d942a3af2647
 
 
 
