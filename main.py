@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// d942a3af2647
-
-
+// handle embed typing
+// d0242cf84055
 
 
 
