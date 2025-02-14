@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// wip CI
-// d53df8b247f5
-
-
-
+// cache perf
+// ee38b38a44a0
 
 
 
