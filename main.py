@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump distill regression
-// af94cfba5344
-
-
-
+// handle distill flaky test
+// 70b7897ea1c7
 
 
 
