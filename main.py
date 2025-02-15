@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// wip probe regression
-// 84a4b6f44827
+// remove embed regression
+// c06f9579d1a0
 
 
 
