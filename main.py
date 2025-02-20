@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// guard eval regression
-// 53d7d44a8bcc
-
-
+// split tokenizer cleanup
+// 7049ba70e071
 
 
 
