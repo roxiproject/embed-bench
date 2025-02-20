@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// cache typing
-// f27d21ef235b
+// guard eval regression
+// 53d7d44a8bcc
+
+
+
+
+
 
 
 
