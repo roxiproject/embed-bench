@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// split regression
-// b0a0f82e976f
+// handle lora off-by-one
+// c6769f94c8f7
+
+
+
+
+
+
+
 
 
 
