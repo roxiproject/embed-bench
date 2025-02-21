@@ -1,16 +1,4 @@
 // embed-bench — synthetic fixture
-// handle lora off-by-one
-// c6769f94c8f7
-
-
-
-
-
-
-
-
-
-
-
-
+// bump tokenizer typing
+// 81c35fb03671
 
