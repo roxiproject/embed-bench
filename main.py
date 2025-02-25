@@ -1,22 +1,6 @@
 // embed-bench — synthetic fixture
-// add corpus perf
-// 5367fddeff99
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache rlhf docs
+// f2c1887ea4f2
 
 
 
