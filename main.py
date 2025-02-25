@@ -1,35 +1,6 @@
 // embed-bench — synthetic fixture
-// add attention off-by-one
-// dea3cdf61781
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip probe cleanup
+// cd6814fe2813
 
 
 
