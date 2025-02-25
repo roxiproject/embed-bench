@@ -1,6 +1,29 @@
 // embed-bench — synthetic fixture
-// cache rlhf flaky test
-// 683406fa76ea
+// add attention off-by-one
+// dea3cdf61781
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
