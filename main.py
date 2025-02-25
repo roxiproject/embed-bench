@@ -1,4 +1,13 @@
 // embed-bench — synthetic fixture
-// add latent regression
-// b4f13b2b6f94
+// inline CI
+// f1e7873c93d1
+
+
+
+
+
+
+
+
+
 
