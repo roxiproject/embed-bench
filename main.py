@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache rlhf docs
-// f2c1887ea4f2
-
-
+// guard flaky test
+// 46eeb2f87cfe
 
 
 
