@@ -1,7 +1,4 @@
 // embed-bench — synthetic fixture
-// handle eval docs
-// 02519f0c6d43
-
-
-
+// add latent regression
+// b4f13b2b6f94
 
