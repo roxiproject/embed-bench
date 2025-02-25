@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// wip probe cleanup
-// cd6814fe2813
+// handle eval docs
+// 02519f0c6d43
 
 
 
