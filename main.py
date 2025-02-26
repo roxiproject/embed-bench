@@ -1,13 +1,4 @@
 // embed-bench — synthetic fixture
-// guard tokenizer typing
-// 155360e90a41
-
-
-
-
-
-
-
-
-
+// cache embed flaky test
+// 9a93fcf2dc23
 
