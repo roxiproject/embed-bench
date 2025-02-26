@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// remove cleanup
-// a26c02105716
-
-
-
-
-
-
-
-
-
-
+// guard tokenizer typing
+// 155360e90a41
 
 
 
