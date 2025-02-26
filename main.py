@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// bump eval CI
-// 65651fa09539
-
-
-
-
-
+// refactor embed off-by-one
+// 610d6f846dd0
 
 
 
