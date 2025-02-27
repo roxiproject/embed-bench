@@ -1,24 +1,6 @@
 // embed-bench — synthetic fixture
-// wip perf
-// dde2805e865b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add off-by-one
+// c2b42e7f0099
 
 
 
