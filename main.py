@@ -1,9 +1,4 @@
 // embed-bench — synthetic fixture
-// remove perf
-// 8c5187c0bc0a
-
-
-
-
-
+// handle tokenizer perf
+// baad0bef7f4d
 
