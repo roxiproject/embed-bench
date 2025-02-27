@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// refactor embed off-by-one
-// 610d6f846dd0
+// refactor latent regression
+// 4f73f2de2f30
+
+
+
+
+
 
 
 
