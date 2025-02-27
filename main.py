@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// split CI
-// 5632aa985944
-
-
+// fix cleanup
+// dcee0a2e7460
 
 
 
