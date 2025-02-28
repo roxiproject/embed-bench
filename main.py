@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// bump flaky test
-// d507ef7f1c49
+// guard off-by-one
+// 180cac0628e5
+
+
+
+
+
+
+
+
+
+
+
 
 
 
