@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// inline distill docs
-// f3665a1d7942
+// split off-by-one
+// abaa573c4c0f
+
+
+
+
 
 
 
