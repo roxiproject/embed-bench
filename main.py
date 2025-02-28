@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// wip edge case
-// 8bfe7574aa54
-
-
-
-
-
-
-
-
-
-
+// wip latent cleanup
+// 1413d4a54ad2
 
 
 
