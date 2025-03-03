@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// 47409afc3f95
+// handle CI
+// a47c958f7101
+
+
 
 
 
