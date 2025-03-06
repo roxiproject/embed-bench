@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor latent cleanup
-// 431aed4c3001
+// wip rlhf off-by-one
+// 2f83a742f006
 
 
 
