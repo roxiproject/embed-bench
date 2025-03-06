@@ -1,6 +1,18 @@
 // embed-bench — synthetic fixture
-// split cleanup
-// 874123a6a736
+// wip off-by-one
+// f5ed2b4beebb
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
