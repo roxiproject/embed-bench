@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// bump regression
-// b23d97daab4f
-
-
-
-
-
-
-
-
+// guard corpus off-by-one
+// 72b98e683db2
 
 
 
