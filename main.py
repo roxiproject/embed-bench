@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard perf
-// 651752dbdd48
+// refactor perf
+// c5c6908804c6
 
 
 
