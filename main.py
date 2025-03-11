@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// inline edge case
-// 36615686d6af
+// refactor docs
+// 97a177a6f0b0
 
 
 
