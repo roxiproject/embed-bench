@@ -1,5 +1,7 @@
 // embed-bench — synthetic fixture
-// refactor lora CI
-// 75c15cd71c2f
+// fix latent regression
+// 86ced31c0dc0
+
+
 
 
