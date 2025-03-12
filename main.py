@@ -1,24 +1,6 @@
 // embed-bench — synthetic fixture
-// guard flaky test
-// a388cb136a21
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle regression
+// 2a7103299ac2
 
 
 
