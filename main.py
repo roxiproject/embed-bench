@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// inline embed edge case
-// 68b19ebd35a1
+// add regression
+// 6f2496cca3db
+
+
 
 
 
