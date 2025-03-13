@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// inline distill cleanup
-// 688ef42df20d
+// remove latent CI
+// a84f7c9e662a
+
+
+
+
+
+
+
 
 
 
