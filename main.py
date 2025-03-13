@@ -1,3 +1,23 @@
 // embed-bench — synthetic fixture
-// handle regression
-// ff1c8ddf4a57
+// remove probe off-by-one
+// 720fa0f389f9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
