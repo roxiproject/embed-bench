@@ -1,4 +1,28 @@
 // embed-bench — synthetic fixture
-// refactor tokenizer perf
-// db0a9ca74efc
+// inline embed flaky test
+// 22a85bd189d3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
