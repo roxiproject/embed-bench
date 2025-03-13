@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// remove probe off-by-one
-// 720fa0f389f9
+// cache off-by-one
+// c761ca1893e7
+
+
 
 
 
