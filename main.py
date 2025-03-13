@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// handle typing
-// 672cfadf0177
-
-
-
-
+// inline distill cleanup
+// 688ef42df20d
 
 
 
