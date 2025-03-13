@@ -1,14 +1,4 @@
 // embed-bench — synthetic fixture
-// remove latent CI
-// a84f7c9e662a
-
-
-
-
-
-
-
-
-
-
+// refactor tokenizer perf
+// db0a9ca74efc
 
