@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// add rlhf regression
-// b3cf5fb5146e
+// fix docs
+// 2465d891993d
+
+
+
+
 
 
 
