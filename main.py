@@ -1,6 +1,39 @@
 // embed-bench — synthetic fixture
-// add cleanup
-// 8980d51a57d4
+// inline eval cleanup
+// d966b9b47e28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
