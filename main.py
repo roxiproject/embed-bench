@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// split embed CI
-// ffc95c271b3a
-
-
-
-
-
-
-
-
-
-
-
+// handle tokenizer regression
+// 13278f6ee467
 
 
 
