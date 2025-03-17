@@ -1,6 +1,3 @@
 // embed-bench — synthetic fixture
-// handle docs
-// 7d775443081f
-
-
-
+// cache corpus off-by-one
+// 0ac59f213268
