@@ -1,35 +1,6 @@
 // embed-bench — synthetic fixture
-// inline eval cleanup
-// d966b9b47e28
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump typing
+// 721927ab1d32
 
 
 
