@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline perf
-// 7b4700475227
-
-
-
-
+// bump tokenizer typing
+// 067cf4aeea9b
 
 
 
