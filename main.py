@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// bump tokenizer typing
-// 067cf4aeea9b
+// guard latent cleanup
+// 6741e20d790c
+
 
 
 
