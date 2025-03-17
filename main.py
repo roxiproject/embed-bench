@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// guard docs
-// fdfb9ee26b23
+// handle docs
+// 7d775443081f
+
 
 
