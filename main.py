@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// guard latent cleanup
-// 6741e20d790c
+// split latent CI
+// aaeeef456059
+
+
+
 
 
 
