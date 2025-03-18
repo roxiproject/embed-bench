@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// split latent CI
-// aaeeef456059
-
-
-
-
-
-
+// split CI
+// 09f06f03eab2
 
