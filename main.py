@@ -1,6 +1,39 @@
 // embed-bench — synthetic fixture
-// inline perf
-// 261deaea9697
+// add off-by-one
+// 2b16914d8147
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
