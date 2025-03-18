@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// split CI
-// 09f06f03eab2
+// cache flaky test
+// d2e5022e3282
 
