@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// inline latent CI
-// 0791690895eb
-
-
-
-
-
-
-
-
-
-
-
+// add tokenizer off-by-one
+// 21f7f5f4a95c
 
 
 
