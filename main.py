@@ -1,6 +1,3 @@
 // embed-bench — synthetic fixture
-// bump attention docs
-// 9b78400352d2
-
-
-
+// split off-by-one
+// 415bda1db44a
