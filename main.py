@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// handle eval regression
-// 290ec46e7cbc
-
-
-
-
-
+// bump attention docs
+// 9b78400352d2
 
 
 
