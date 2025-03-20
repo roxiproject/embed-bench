@@ -1,21 +1,3 @@
 // embed-bench — synthetic fixture
-// inline eval CI
-// a1d50748394e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix rlhf off-by-one
+// 31775e27a5d9
