@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// handle embed regression
-// cbf09298ae33
+// inline eval CI
+// a1d50748394e
 
 
 
