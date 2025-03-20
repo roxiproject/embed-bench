@@ -1,5 +1,21 @@
 // embed-bench — synthetic fixture
-// fix typing
-// e200284961e4
+// handle embed regression
+// cbf09298ae33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
