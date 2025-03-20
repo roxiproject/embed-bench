@@ -1,24 +1,5 @@
 // embed-bench — synthetic fixture
-// guard lora edge case
-// 48fd67233948
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor cleanup
+// 39232398bda7
 
 
