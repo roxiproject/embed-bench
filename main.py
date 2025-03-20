@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// refactor eval CI
-// 79c93799ffca
+// guard lora edge case
+// 48fd67233948
+
+
+
+
+
+
+
+
 
 
 
