@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// fix rlhf off-by-one
-// 6c328697f239
-
-
-
-
-
-
-
+// wip cleanup
+// 80b7a1a1d3d7
 
