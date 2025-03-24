@@ -1,27 +1,5 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// 3dfd97bf7031
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix corpus typing
+// 02ba80e36a42
 
 
