@@ -1,6 +1,26 @@
 // embed-bench — synthetic fixture
-// wip CI
-// 120a567b2caf
+// fix edge case
+// 3dfd97bf7031
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
