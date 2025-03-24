@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// e544afd85640
+// fix rlhf off-by-one
+// 6c328697f239
+
+
+
+
+
 
 
 
