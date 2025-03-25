@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// guard CI
-// f3f91045d2c9
-
-
-
-
-
-
+// guard lora perf
+// b1f5798d4d36
 
 
 
