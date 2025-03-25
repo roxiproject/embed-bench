@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// bump embed cleanup
-// 09c45c931d7d
+// add off-by-one
+// e1fa6811bec4
+
+
+
+
+
 
 
 
