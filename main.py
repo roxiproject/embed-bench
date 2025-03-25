@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// remove docs
-// e06f7adce6fc
+// guard CI
+// 058e16200f90
 
 
 
