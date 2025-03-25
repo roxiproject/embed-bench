@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// guard lora perf
-// b1f5798d4d36
-
-
+// remove lora docs
+// 8ca3297d97db
 
 
 
