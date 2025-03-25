@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// guard CI
-// 058e16200f90
-
-
+// split edge case
+// 9825b6f000bc
 
 
 
