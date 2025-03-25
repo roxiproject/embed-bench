@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// e1fa6811bec4
+// guard latent regression
+// 9549bee3aaed
+
+
 
 
 
