@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 2031f20500d6
-
-
+// bump embed cleanup
+// 09c45c931d7d
 
 
 
