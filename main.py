@@ -1,5 +1,8 @@
 // embed-bench — synthetic fixture
-// cache docs
-// 1be7bdc17438
+// remove docs
+// e06f7adce6fc
+
+
+
 
 
