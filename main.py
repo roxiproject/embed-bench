@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// cache perf
-// 8e2da040be88
+// guard CI
+// f3f91045d2c9
+
+
+
+
+
+
+
+
 
 
 
