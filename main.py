@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// cache tokenizer flaky test
-// 0129f027eeec
-
-
-
+// add corpus regression
+// 89ed4023c6e6
 
 
 
