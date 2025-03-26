@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// wip distill typing
-// 4cae4160e947
-
-
-
-
-
-
-
-
+// wip distill off-by-one
+// a104f38f4959
 
 
 
