@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// remove typing
-// 69261001fda4
-
-
-
-
-
-
+// bump latent cleanup
+// fa356ed079dc
 
