@@ -1,4 +1,19 @@
 // embed-bench — synthetic fixture
-// cache latent off-by-one
-// d418e1a7702d
+// fix distill edge case
+// 3a997edc002c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
