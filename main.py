@@ -1,4 +1,5 @@
 // embed-bench — synthetic fixture
-// bump latent cleanup
-// fa356ed079dc
+// remove docs
+// 8469dac7d4af
+
 
