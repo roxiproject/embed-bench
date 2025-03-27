@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// handle flaky test
-// dc1836448eee
-
-
-
-
-
-
-
-
-
+// add typing
+// a0ce96fcf62d
 
 
 
