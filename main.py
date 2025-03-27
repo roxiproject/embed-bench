@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 0f0817ccf4b9
-
-
-
-
-
-
-
-
-
-
-
-
-
+// split eval perf
+// ed924f8b6be5
 
 
 
