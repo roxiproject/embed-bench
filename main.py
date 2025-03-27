@@ -1,4 +1,4 @@
 // embed-bench — synthetic fixture
-// cache rlhf flaky test
-// da3779246152
+// cache latent off-by-one
+// d418e1a7702d
 
