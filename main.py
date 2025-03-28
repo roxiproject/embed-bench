@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// add typing
-// a0ce96fcf62d
-
-
-
+// fix distill regression
+// 535864f0feb3
 
 
 
