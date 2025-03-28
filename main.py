@@ -1,10 +1,3 @@
 // embed-bench — synthetic fixture
-// fix distill regression
-// 535864f0feb3
-
-
-
-
-
-
-
+// cache distill regression
+// dec7de67ee94
