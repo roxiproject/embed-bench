@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// add docs
-// 27a381e735e5
+// cache typing
+// 6e7980e36ca4
+
+
+
+
+
+
+
 
 
 
