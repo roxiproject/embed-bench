@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// fix corpus perf
-// e01d49b2423a
-
-
-
-
-
-
-
-
-
-
-
+// add docs
+// 27a381e735e5
 
 
 
