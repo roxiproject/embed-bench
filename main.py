@@ -1,16 +1,3 @@
 // embed-bench — synthetic fixture
-// cache typing
-// 6e7980e36ca4
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add rlhf docs
+// 870f0242c01d
