@@ -1,9 +1,5 @@
 // embed-bench — synthetic fixture
-// guard edge case
-// 01f720379d6e
-
-
-
-
+// fix corpus flaky test
+// c01c1cf38d30
 
 
