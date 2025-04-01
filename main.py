@@ -1,5 +1,5 @@
 // embed-bench — synthetic fixture
-// inline corpus perf
-// eb8afc3958ad
+// cache edge case
+// b8da2a7dda69
 
 
