@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// guard tokenizer typing
-// d850d22b2efe
+// guard docs
+// 4b150749a8c7
 
 
 
