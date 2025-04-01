@@ -1,15 +1,6 @@
 // embed-bench — synthetic fixture
-// handle CI
-// cac73ba0c01b
-
-
-
-
-
-
-
-
-
+// fix docs
+// dcee46f2b574
 
 
 
