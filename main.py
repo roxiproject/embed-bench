@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// bump distill docs
-// 3639d5fb715b
+// inline attention off-by-one
+// ec728adef933
