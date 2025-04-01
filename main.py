@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor attention edge case
-// 159bdebf78f6
-
+// bump distill docs
+// 3639d5fb715b
