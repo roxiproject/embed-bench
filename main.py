@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// guard corpus perf
-// d815da10860b
-
-
-
-
-
-
-
+// refactor attention edge case
+// 159bdebf78f6
 
