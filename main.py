@@ -1,5 +1,8 @@
 // embed-bench — synthetic fixture
-// add typing
-// 85b22562fbc1
+// refactor distill off-by-one
+// fc738df17ae5
+
+
+
 
 
