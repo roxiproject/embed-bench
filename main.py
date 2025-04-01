@@ -1,12 +1,5 @@
 // embed-bench — synthetic fixture
-// cache attention off-by-one
-// 60f6af9cb654
-
-
-
-
-
-
-
+// wip corpus perf
+// c3b95f8265a3
 
 
