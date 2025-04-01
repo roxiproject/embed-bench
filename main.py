@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor distill off-by-one
-// fc738df17ae5
-
+// bump typing
+// a19c0ce22d2e
 
 
 
