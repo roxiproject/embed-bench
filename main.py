@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// cache corpus edge case
-// becaea003ad7
-
-
-
-
-
+// guard corpus perf
+// d815da10860b
 
 
 
