@@ -1,5 +1,8 @@
 // embed-bench — synthetic fixture
-// wip corpus perf
-// c3b95f8265a3
+// guard tokenizer typing
+// d850d22b2efe
+
+
+
 
 
