@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// bump typing
-// a19c0ce22d2e
+// split corpus off-by-one
+// ec560d6b9f66
+
 
 
 
