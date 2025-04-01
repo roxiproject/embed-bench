@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// split docs
-// 8823d1981709
-
-
-
-
-
+// handle corpus docs
+// 8908d3dcf155
 
 
 
