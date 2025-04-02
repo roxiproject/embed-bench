@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval off-by-one
-// a2493e27e3dc
-
-
+// refactor typing
+// 4de9eb24ea96
 
 
 
