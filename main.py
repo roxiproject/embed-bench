@@ -1,34 +1,3 @@
 // embed-bench — synthetic fixture
-// add edge case
-// 027dc4b97541
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor docs
+// cc4ce84984e6
