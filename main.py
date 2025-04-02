@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// fix rlhf edge case
-// ac033ca16041
-
+// refactor eval off-by-one
+// a2493e27e3dc
 
 
 
