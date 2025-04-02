@@ -1,4 +1,6 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// 414f450b0299
+// remove lora regression
+// e7d3f529755e
+
+
 
