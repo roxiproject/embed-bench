@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// guard corpus docs
-// 114e74926063
-
+// inline docs
+// e68c7be632b6
 
 
 
