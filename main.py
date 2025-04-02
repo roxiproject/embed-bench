@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// eb26030cd69d
+// refactor latent typing
+// 98ae5c07e1b2
+
+
+
+
+
+
+
 
 
 
