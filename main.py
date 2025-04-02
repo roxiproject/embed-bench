@@ -1,12 +1,4 @@
 // embed-bench — synthetic fixture
-// wip distill off-by-one
-// f8bd96452949
-
-
-
-
-
-
-
-
+// split off-by-one
+// 414f450b0299
 
