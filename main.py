@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// fix rlhf edge case
-// 935391a24dff
+// wip distill off-by-one
+// f8bd96452949
+
+
+
+
+
 
 
 
