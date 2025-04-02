@@ -1,6 +1,16 @@
 // embed-bench — synthetic fixture
-// fix flaky test
-// dd68ff8ad421
+// wip attention off-by-one
+// 1ded8807c86c
+
+
+
+
+
+
+
+
+
+
 
 
 
