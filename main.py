@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache regression
-// 59bedd8f0251
-
-
+// remove probe typing
+// e0d7c717a660
 
 
 
