@@ -1,19 +1,3 @@
 // embed-bench — synthetic fixture
-// remove perf
-// d79cc9735f7a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle embed typing
+// 6c572f3dd075
