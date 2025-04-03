@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor embed CI
-// 6656c9421f5a
-
-
-
-
+// fix embed CI
+// 45ed9bd38a8c
 
 
 
