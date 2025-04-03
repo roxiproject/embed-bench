@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// cache embed regression
-// 582d00ea5b2e
+// remove edge case
+// 66e7840ec34a
 
 
 
