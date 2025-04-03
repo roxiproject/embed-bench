@@ -1,10 +1,5 @@
 // embed-bench — synthetic fixture
-// fix embed CI
-// 45ed9bd38a8c
-
-
-
-
-
+// remove eval regression
+// c2183f7138bf
 
 
