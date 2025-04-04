@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// fix distill regression
-// 72fd4efabc1d
-
-
-
-
-
-
-
-
+// wip latent cleanup
+// 15a221359f8f
 
 
 
