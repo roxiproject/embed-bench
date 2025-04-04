@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// cache cleanup
-// 99c21a819016
-
-
-
-
-
-
-
+// remove corpus cleanup
+// 049c1b7d025b
 
 
 
