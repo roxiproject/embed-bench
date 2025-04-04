@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// wip embed CI
-// 3022e8ddb00f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix distill regression
+// 72fd4efabc1d
 
 
 
