@@ -1,22 +1,4 @@
 // embed-bench — synthetic fixture
-// split eval regression
-// 70da74b7c37f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump attention CI
+// f448c8f48280
 
