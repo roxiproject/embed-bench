@@ -1,4 +1,7 @@
 // embed-bench — synthetic fixture
-// handle attention CI
-// 0f79fe9ea37f
+// guard eval edge case
+// 6fdb4f2d3447
+
+
+
 
