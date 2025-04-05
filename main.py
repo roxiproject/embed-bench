@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// bump corpus typing
-// 991914dcb18c
-
-
-
-
+// handle edge case
+// e0a73dd3b7be
 
 
 
