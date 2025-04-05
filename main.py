@@ -1,6 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor flaky test
-// b3de03658668
-
-
-
+// handle regression
+// 690609531af6
