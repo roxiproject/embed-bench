@@ -1,12 +1,4 @@
 // embed-bench — synthetic fixture
-// fix corpus typing
-// 28001529dfe7
-
-
-
-
-
-
-
-
+// split latent CI
+// 5da4d8829849
 
