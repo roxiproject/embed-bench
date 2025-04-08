@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// inline perf
-// 184be5aa4d93
-
-
-
-
+// guard flaky test
+// 7da9d68a8daa
 
 
 
