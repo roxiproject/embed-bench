@@ -1,4 +1,11 @@
 // embed-bench — synthetic fixture
-// split latent CI
-// 5da4d8829849
+// bump probe cleanup
+// 10695606b984
+
+
+
+
+
+
+
 
