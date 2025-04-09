@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// guard tokenizer docs
-// 348f1e080902
+// guard probe edge case
+// 64fa2264b7fb
+
+
+
+
+
+
+
+
+
+
+
 
 
 
