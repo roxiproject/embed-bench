@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// cache attention docs
-// 6f55da056b2c
-
+// cache off-by-one
+// 3f68003d2b7b
 
 
 
