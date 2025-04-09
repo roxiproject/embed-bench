@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// cache typing
-// b084dacf3a8c
-
-
+// add probe edge case
+// 3e3e8ad1985a
 
