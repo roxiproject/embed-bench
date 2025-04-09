@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// inline edge case
-// af2893f39f95
-
-
-
-
-
-
-
-
-
-
+// add perf
+// 5bc1d6cfb568
 
 
 
