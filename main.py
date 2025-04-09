@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// cache corpus perf
-// d1569c8d6fc1
+// handle eval perf
+// 72fa39eb8ec8
+
+
+
+
 
 
 
