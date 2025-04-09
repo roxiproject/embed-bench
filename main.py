@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 93f7d8d10577
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard tokenizer docs
+// 348f1e080902
 
 
 
