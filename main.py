@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// cache perf
-// daccac70349b
-
-
-
-
-
-
-
-
+// cache typing
+// b084dacf3a8c
 
 
 
