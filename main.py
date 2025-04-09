@@ -1,6 +1,6 @@
 // embed-bench — synthetic fixture
-// handle eval perf
-// 72fa39eb8ec8
+// cache edge case
+// 1a5e977cb132
 
 
 
