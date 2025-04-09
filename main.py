@@ -1,4 +1,14 @@
 // embed-bench — synthetic fixture
-// add probe edge case
-// 3e3e8ad1985a
+// cache corpus perf
+// d1569c8d6fc1
+
+
+
+
+
+
+
+
+
+
 
