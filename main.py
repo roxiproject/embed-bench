@@ -1,21 +1,3 @@
 // embed-bench — synthetic fixture
-// add corpus docs
-// ef9415be5c3a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump embed edge case
+// a65c6d7c4803
