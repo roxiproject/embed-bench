@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// bump embed edge case
-// a65c6d7c4803
+// cache perf
+// cf1bb6f64304
