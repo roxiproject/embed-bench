@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// fix latent off-by-one
-// 65a45fc4ce03
+// guard rlhf flaky test
+// 810f84f32fdb
+
+
+
+
+
+
+
+
+
+
+
 
 
 
