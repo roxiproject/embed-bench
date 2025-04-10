@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// inline attention off-by-one
-// f4cecb9e4078
-
+// split embed flaky test
+// d27369ee0b0c
 
 
 
