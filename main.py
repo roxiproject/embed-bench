@@ -1,4 +1,8 @@
 // embed-bench — synthetic fixture
-// split typing
-// df179d82013b
+// fix latent off-by-one
+// 65a45fc4ce03
+
+
+
+
 
