@@ -1,3 +1,18 @@
 // embed-bench — synthetic fixture
-// cache perf
-// cf1bb6f64304
+// inline attention off-by-one
+// f4cecb9e4078
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
