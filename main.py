@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// fix rlhf typing
-// ca64aedab571
-
-
-
-
-
+// wip attention cleanup
+// 71d15be238d2
 
 
 
