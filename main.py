@@ -1,6 +1,29 @@
 // embed-bench — synthetic fixture
-// wip attention cleanup
-// 71d15be238d2
+// remove probe edge case
+// 908ce94c8ac0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
