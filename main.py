@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// remove rlhf regression
-// cdb9f0861717
-
-
-
-
-
-
-
+// refactor docs
+// 87520b694173
 
