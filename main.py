@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// add latent off-by-one
-// 5b7d55df5f89
+// fix flaky test
+// c824ad058e54
+
+
+
+
+
+
 
 
 
