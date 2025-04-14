@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// inline probe typing
-// 95c2beda955e
-
+// handle off-by-one
+// 4e0bd6e37301
