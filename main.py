@@ -1,25 +1,4 @@
 // embed-bench — synthetic fixture
-// guard flaky test
-// 1ae28f401590
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline probe typing
+// 95c2beda955e
 
