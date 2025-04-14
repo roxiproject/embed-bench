@@ -1,6 +1,28 @@
 // embed-bench — synthetic fixture
-// fix flaky test
-// c824ad058e54
+// add typing
+// 4ada2bbbeb4b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
