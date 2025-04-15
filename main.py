@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// 23c3c0b87740
-
-
-
-
-
-
-
-
+// wip tokenizer off-by-one
+// 502ba2800033
 
 
 
