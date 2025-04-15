@@ -1,27 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor latent edge case
-// fd42b540d5ad
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove typing
+// 1016b91ba4ee
 
 
 
