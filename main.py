@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// remove corpus edge case
-// 6a3e15bf763e
+// add embed regression
+// 7461febd294b
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
