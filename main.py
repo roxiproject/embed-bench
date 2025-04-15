@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// 474dd8da4adf
-
-
-
-
-
-
-
-
-
-
-
+// bump attention flaky test
+// 679f4e0faf29
 
 
 
