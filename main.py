@@ -1,16 +1,5 @@
 // embed-bench — synthetic fixture
-// guard lora off-by-one
-// 318f1a584072
-
-
-
-
-
-
-
-
-
-
-
+// guard attention regression
+// 9a7703747341
 
 
