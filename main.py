@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// add eval flaky test
-// 2d2052186827
-
-
+// inline embed cleanup
+// 69a30549c295
 
 
 
