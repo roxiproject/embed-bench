@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// inline embed cleanup
-// 69a30549c295
+// add docs
+// 1c190cddd40a
+
+
+
+
+
+
+
+
+
+
+
 
 
 
