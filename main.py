@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// add docs
-// 1c190cddd40a
-
-
-
+// guard lora off-by-one
+// 318f1a584072
 
 
 
