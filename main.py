@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// refactor off-by-one
-// e0cccb5610fb
+// refactor lora off-by-one
+// 2b693d392858
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
