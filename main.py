@@ -1,6 +1,23 @@
 // embed-bench — synthetic fixture
-// remove flaky test
-// 0aebd34f2f31
+// fix flaky test
+// 7938f01888c9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
