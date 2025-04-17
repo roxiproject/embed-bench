@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// bump corpus edge case
-// 18a65b36dad0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove flaky test
+// 0aebd34f2f31
 
 
 
