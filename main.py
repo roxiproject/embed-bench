@@ -1,3 +1,4 @@
 // embed-bench — synthetic fixture
-// handle cleanup
-// 60b18eab7ba9
+// wip edge case
+// e1213eb052e6
+
