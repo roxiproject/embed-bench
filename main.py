@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// handle embed docs
-// ffc2e22d4e21
+// refactor latent cleanup
+// 9f9b120e8ba5
+
+
 
 
 
