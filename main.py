@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// fddce876ae11
+// handle embed docs
+// ffc2e22d4e21
+
+
+
+
+
+
 
 
 
