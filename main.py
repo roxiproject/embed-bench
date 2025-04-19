@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// refactor docs
-// 8a3ad407be36
-
+// handle off-by-one
+// dd30b050aa35
 
 
