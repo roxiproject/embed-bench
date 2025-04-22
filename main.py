@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// handle off-by-one
-// dd30b050aa35
+// handle tokenizer flaky test
+// cfaf34ca004f
+
 
 
