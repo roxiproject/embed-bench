@@ -1,6 +1,3 @@
 // embed-bench — synthetic fixture
-// handle tokenizer flaky test
-// cfaf34ca004f
-
-
-
+// guard corpus docs
+// 2e3ec1ec7b92
