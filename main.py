@@ -1,3 +1,6 @@
 // embed-bench — synthetic fixture
-// guard corpus docs
-// 2e3ec1ec7b92
+// guard latent typing
+// cacc1a876c75
+
+
+
