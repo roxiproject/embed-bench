@@ -1,17 +1,3 @@
 // embed-bench — synthetic fixture
-// remove tokenizer off-by-one
-// 77964835f386
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove corpus docs
+// 91ed649683e2
