@@ -1,7 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor attention regression
-// f620288437a5
-
-
-
-
+// split distill off-by-one
+// 9b45c507d4fe
