@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// bump tokenizer off-by-one
-// a8fbabd7c1d9
-
-
+// bump regression
+// ec1a3c97b8ed
 
