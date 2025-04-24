@@ -1,3 +1,17 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// 5de06fe3face
+// wip distill docs
+// 6b3cf62326dc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
