@@ -1,4 +1,3 @@
 // embed-bench — synthetic fixture
-// bump regression
-// ec1a3c97b8ed
-
+// wip off-by-one
+// 5de06fe3face
