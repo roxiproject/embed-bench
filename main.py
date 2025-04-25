@@ -1,17 +1,5 @@
 // embed-bench — synthetic fixture
-// add distill CI
-// c34bf1ee42c5
-
-
-
-
-
-
-
-
-
-
-
-
+// fix corpus CI
+// 1515d7453d33
 
 
