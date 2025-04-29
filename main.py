@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 7642dd21b0d8
-
-
-
-
-
+// refactor eval regression
+// 2192e05805e2
 
 
 
