@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// handle flaky test
-// 3be59eaf485e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle off-by-one
+// dd06fd3f0253
 
