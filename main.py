@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// cache embed edge case
-// 92115d93c14b
+// fix embed typing
+// 58be6d498d03
+
+
 
 
 
