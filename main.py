@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// bump tokenizer perf
-// 9cae34c51814
-
+// guard distill cleanup
+// 1f0dd07e4830
 
 
 
