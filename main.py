@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// refactor lora docs
-// 4bbabe95b013
+// wip latent CI
+// 51cfe4569f2a
+
+
+
+
+
+
+
+
+
 
 
 
