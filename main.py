@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// add flaky test
-// 343b5f365b44
+// add embed CI
+// d37714fc366b
+
 
 
