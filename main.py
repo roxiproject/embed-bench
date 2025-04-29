@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// bump probe docs
-// abefe4b13536
+// split embed regression
+// 3dc308f05622
+
+
+
+
+
+
 
 
 
