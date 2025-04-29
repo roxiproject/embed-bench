@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// fix CI
-// 4401050dc7e7
-
+// fix attention cleanup
+// a6f628ed3290
 
 
 
