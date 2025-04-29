@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// fix embed typing
-// 58be6d498d03
-
-
-
-
-
-
+// bump probe docs
+// abefe4b13536
 
 
 
