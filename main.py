@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// inline rlhf regression
-// e03d48e30d9a
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache embed perf
+// 5833d6732e31
 
 
 
