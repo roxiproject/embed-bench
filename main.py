@@ -1,11 +1,3 @@
 // embed-bench — synthetic fixture
-// handle rlhf regression
-// b5d751957ab9
-
-
-
-
-
-
-
-
+// guard CI
+// 157339300094
