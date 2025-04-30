@@ -1,3 +1,12 @@
 // embed-bench — synthetic fixture
-// add tokenizer perf
-// ae4c2668b068
+// cache tokenizer edge case
+// 0f33ae0e2015
+
+
+
+
+
+
+
+
+
