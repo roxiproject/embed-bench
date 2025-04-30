@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor distill cleanup
-// c8901eb19f4f
-
-
-
-
-
-
-
+// wip corpus off-by-one
+// cd9096df570c
 
 
 
