@@ -1,12 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor off-by-one
-// 84ebcc83c3db
-
-
-
-
-
-
-
-
-
+// add off-by-one
+// 5f6e1ced1439
