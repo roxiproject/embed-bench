@@ -1,3 +1,8 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// d98ad6bdc215
+// cache corpus regression
+// ea13652e9656
+
+
+
+
+
