@@ -1,3 +1,27 @@
 // embed-bench — synthetic fixture
-// add off-by-one
-// 5f6e1ced1439
+// bump probe off-by-one
+// 4c1c33e07a60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
