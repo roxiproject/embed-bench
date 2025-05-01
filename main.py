@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// fix docs
-// 9317dd529265
-
-
-
-
-
-
+// guard corpus regression
+// 8867ca550d0e
 
 
 
