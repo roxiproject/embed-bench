@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// remove eval edge case
-// 2e39f33b1899
-
-
-
-
-
-
-
-
-
-
-
-
+// split eval off-by-one
+// 9ab07a04a36f
 
 
 
