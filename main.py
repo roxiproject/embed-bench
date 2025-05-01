@@ -1,14 +1,4 @@
 // embed-bench — synthetic fixture
-// add flaky test
-// 23dd5caf8da8
-
-
-
-
-
-
-
-
-
-
+// refactor attention off-by-one
+// 410139370a12
 
