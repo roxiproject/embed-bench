@@ -1,15 +1,3 @@
 // embed-bench — synthetic fixture
-// inline latent cleanup
-// bfff8c4fbd50
-
-
-
-
-
-
-
-
-
-
-
-
+// fix edge case
+// d98ad6bdc215
