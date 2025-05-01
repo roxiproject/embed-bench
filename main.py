@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// guard corpus regression
-// 8867ca550d0e
-
-
-
-
-
-
+// remove corpus CI
+// 7b9698fd3c15
 
 
 
