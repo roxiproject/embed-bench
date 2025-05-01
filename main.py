@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// guard regression
-// 3a03f0c3b2ff
-
-
-
-
-
+// remove corpus edge case
+// 5415efb78e9e
 
 
 
