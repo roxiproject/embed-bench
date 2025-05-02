@@ -1,24 +1,3 @@
 // embed-bench — synthetic fixture
-// bump typing
-// 54d4cfc846d0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix CI
+// d04302ee32a6
