@@ -1,9 +1,3 @@
 // embed-bench — synthetic fixture
-// refactor distill off-by-one
-// bc096a21613c
-
-
-
-
-
-
+// remove latent perf
+// fdcbd0b6517a
