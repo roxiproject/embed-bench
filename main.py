@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// wip off-by-one
-// c8e62902d672
-
-
-
-
+// fix edge case
+// ecf177bd7715
 
 
 
