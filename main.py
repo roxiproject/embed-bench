@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// guard off-by-one
-// 8e9b866eba22
+// cache typing
+// d2b1567f09cc
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
