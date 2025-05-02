@@ -1,23 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor CI
-// 0d5ad0827920
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip eval off-by-one
+// b492a2c9b024
 
 
 
