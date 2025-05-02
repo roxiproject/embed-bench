@@ -1,25 +1,6 @@
 // embed-bench — synthetic fixture
-// add probe typing
-// 9847207717f8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip off-by-one
+// c8e62902d672
 
 
 
