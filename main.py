@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// fix cleanup
-// da539310136d
+// split corpus edge case
+// 06f117e4aab1
+
+
+
+
 
 
 
