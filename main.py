@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// cache typing
-// d2b1567f09cc
+// cache eval cleanup
+// f837faa54c45
+
+
+
+
+
+
 
 
 
