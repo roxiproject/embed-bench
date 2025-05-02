@@ -1,3 +1,7 @@
 // embed-bench — synthetic fixture
-// remove eval typing
-// 49925ef7fa49
+// guard off-by-one
+// 8e9b866eba22
+
+
+
+
