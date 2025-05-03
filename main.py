@@ -1,23 +1,5 @@
 // embed-bench — synthetic fixture
-// split typing
-// 036f5961c754
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle latent CI
+// 904daebd8cb4
 
 
