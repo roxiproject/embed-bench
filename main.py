@@ -1,5 +1,6 @@
 // embed-bench — synthetic fixture
-// handle latent CI
-// 904daebd8cb4
+// handle CI
+// 14114d6134e4
+
 
 
