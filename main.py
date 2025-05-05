@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// inline typing
-// 714c43060161
+// wip probe docs
+// 650931df4aff
+
+
 
 
 
