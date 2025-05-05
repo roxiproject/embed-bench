@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// wip probe docs
-// 650931df4aff
-
+// handle probe perf
+// 1ddb1a51b308
 
 
 
