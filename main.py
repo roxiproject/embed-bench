@@ -1,21 +1,3 @@
 // embed-bench — synthetic fixture
-// remove embed flaky test
-// 7bd317028231
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump typing
+// 9ade1b429164
