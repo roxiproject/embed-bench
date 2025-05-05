@@ -1,3 +1,5 @@
 // embed-bench — synthetic fixture
-// bump typing
-// 9ade1b429164
+// cache typing
+// 5a458e8261e4
+
+
