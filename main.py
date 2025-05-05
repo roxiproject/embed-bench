@@ -1,4 +1,8 @@
 // embed-bench — synthetic fixture
-// refactor regression
-// 8d4cbb5e8506
+// add corpus off-by-one
+// c26919a62369
+
+
+
+
 
