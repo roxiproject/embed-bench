@@ -1,8 +1,5 @@
 // embed-bench — synthetic fixture
-// add corpus off-by-one
-// c26919a62369
-
-
-
+// guard probe cleanup
+// b8fa6c0f1a4b
 
 
