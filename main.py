@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// fix perf
-// 1afe425648c4
-
-
-
+// add lora off-by-one
+// 3fdd6dee6e9e
 
 
 
