@@ -1,3 +1,3 @@
 // embed-bench — synthetic fixture
-// handle cleanup
-// 279f380a9209
+// split cleanup
+// 3eae3abc26a7
