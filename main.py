@@ -1,21 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval perf
-// 00d2fc7f1ea5
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline corpus perf
+// 7c3a87114d8a
 
 
 
