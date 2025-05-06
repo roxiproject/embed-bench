@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// fix tokenizer edge case
-// f8b2570a8e07
-
-
-
-
+// handle regression
+// 5d2165d56649
 
 
 
