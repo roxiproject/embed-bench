@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// inline CI
-// 68d31a3221bd
-
-
-
+// fix tokenizer edge case
+// f8b2570a8e07
 
 
 
