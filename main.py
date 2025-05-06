@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// fix attention edge case
-// f70b401a500e
-
+// guard probe edge case
+// 5e58f271be91
 
 
