@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// guard typing
-// f2c76323a5b7
-
-
-
-
-
-
-
+// handle corpus regression
+// a3431825a3d5
 
 
 
