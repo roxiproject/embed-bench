@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// guard regression
-// 7fa58198b009
+// guard typing
+// f2c76323a5b7
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
