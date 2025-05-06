@@ -1,28 +1,3 @@
 // embed-bench — synthetic fixture
-// handle lora CI
-// 65eea11c1e33
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle cleanup
+// 279f380a9209
