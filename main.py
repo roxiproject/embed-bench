@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// handle corpus regression
-// a3431825a3d5
-
-
+// bump tokenizer typing
+// e0b9aa6ff806
 
 
 
