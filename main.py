@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// remove corpus typing
-// af1e8c892587
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix attention edge case
+// f70b401a500e
 
 
 
