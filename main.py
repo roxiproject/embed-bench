@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// inline typing
-// 3b35a6d21a94
-
-
-
-
-
-
-
-
-
-
+// refactor embed flaky test
+// 2cbcd3d2b546
 
 
 
