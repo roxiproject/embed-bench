@@ -1,35 +1,5 @@
 // embed-bench — synthetic fixture
-// add latent edge case
-// 733e7033c72d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache latent regression
+// 65e5892e3ce8
 
 
