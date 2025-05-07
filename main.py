@@ -1,13 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor embed cleanup
-// d342c4ec05ca
-
-
-
-
-
-
-
+// guard embed typing
+// e404368cf898
 
 
 
