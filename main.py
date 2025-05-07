@@ -1,6 +1,12 @@
 // embed-bench — synthetic fixture
-// handle tokenizer cleanup
-// fec92d119481
+// inline probe perf
+// 048f2c3c0716
+
+
+
+
+
+
 
 
 
