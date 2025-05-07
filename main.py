@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// guard embed typing
-// e404368cf898
+// inline docs
+// aa7ab90f6094
+
+
+
+
+
+
+
+
 
 
 
