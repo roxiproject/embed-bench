@@ -1,19 +1,3 @@
 // embed-bench — synthetic fixture
-// fix typing
-// 142d0b002f4f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix rlhf CI
+// d14a6b1d0fc1
