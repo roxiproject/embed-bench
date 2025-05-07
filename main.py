@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// inline docs
-// aa7ab90f6094
-
+// wip eval docs
+// 94815d48bd6a
 
 
 
