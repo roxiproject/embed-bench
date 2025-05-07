@@ -1,6 +1,25 @@
 // embed-bench — synthetic fixture
-// wip eval docs
-// 94815d48bd6a
+// inline lora edge case
+// a233b2734d71
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
