@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// 7ca7e4be5715
-
-
-
-
+// guard eval typing
+// b3c33060922c
 
 
 
