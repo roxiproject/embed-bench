@@ -1,32 +1,3 @@
 // embed-bench — synthetic fixture
-// remove cleanup
-// 69252faac966
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove off-by-one
+// ac0a4082ca3b
