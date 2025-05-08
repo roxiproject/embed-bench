@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline eval CI
-// ea2c999f1483
-
-
-
-
-
+// wip cleanup
+// 7ca7e4be5715
 
 
 
