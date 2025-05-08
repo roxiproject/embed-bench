@@ -1,3 +1,36 @@
 // embed-bench — synthetic fixture
-// remove off-by-one
-// ac0a4082ca3b
+// handle docs
+// 2a491f6c338f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
