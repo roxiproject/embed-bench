@@ -1,3 +1,24 @@
 // embed-bench — synthetic fixture
-// fix docs
-// 085fb3ad1179
+// bump distill off-by-one
+// e7bf0e49ca72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
