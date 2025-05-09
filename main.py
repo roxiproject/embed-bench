@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// fix off-by-one
-// 75fcd1817c7b
-
+// split distill typing
+// 1a0046a8f6fb
 
 
 
