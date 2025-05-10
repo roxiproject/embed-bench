@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// 2185b6ac9586
-
-
+// add lora edge case
+// 34c3567ede73
 
 
 
