@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// handle docs
-// 0066124d07d4
-
-
+// guard edge case
+// bf48cba7170b
 
