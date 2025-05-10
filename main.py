@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// add lora edge case
-// 34c3567ede73
-
-
+// wip regression
+// a1d34a79afed
 
 
 
