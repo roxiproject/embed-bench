@@ -1,4 +1,18 @@
 // embed-bench — synthetic fixture
-// guard edge case
-// bf48cba7170b
+// add attention edge case
+// 0469015222be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
