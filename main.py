@@ -1,4 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor distill perf
-// fc7d68dc85d7
+// handle attention off-by-one
+// c001dd3f211e
+
+
 
