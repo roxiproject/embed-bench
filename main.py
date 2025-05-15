@@ -1,6 +1,21 @@
 // embed-bench — synthetic fixture
-// handle attention off-by-one
-// c001dd3f211e
+// fix rlhf edge case
+// 2b6d1c63a7c1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
