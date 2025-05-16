@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// bump perf
-// 2a7eafa31ff3
+// guard attention regression
+// e5bb0c57a120
+
+
+
+
+
+
+
+
 
 
 
