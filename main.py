@@ -1,16 +1,3 @@
 // embed-bench — synthetic fixture
-// guard attention regression
-// e5bb0c57a120
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache rlhf CI
+// 6c9a59f0da03
