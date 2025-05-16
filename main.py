@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// fix rlhf edge case
-// 2b6d1c63a7c1
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump perf
+// 2a7eafa31ff3
 
 
 
