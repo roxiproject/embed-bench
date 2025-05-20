@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// split edge case
-// 66f99534d58d
-
-
-
-
-
-
-
-
-
-
-
-
+// inline distill perf
+// a6a67cda552c
 
 
 
