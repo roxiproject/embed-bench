@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// cache docs
-// 7a3843411c89
-
+// add distill typing
+// 675385336cee
 
 
 
