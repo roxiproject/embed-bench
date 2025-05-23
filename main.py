@@ -1,22 +1,6 @@
 // embed-bench — synthetic fixture
-// remove probe typing
-// 82323f68c4df
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove embed docs
+// 19acd3cfc103
 
 
 
