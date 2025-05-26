@@ -1,18 +1,4 @@
 // embed-bench — synthetic fixture
-// wip latent typing
-// f6470020ef9e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix tokenizer CI
+// d9085632b3d8
 
