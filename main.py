@@ -1,6 +1,11 @@
 // embed-bench — synthetic fixture
-// cache lora docs
-// f78b14d59d52
+// guard regression
+// a30110153e6d
+
+
+
+
+
 
 
 
