@@ -1,12 +1,5 @@
 // embed-bench — synthetic fixture
-// guard regression
-// a30110153e6d
-
-
-
-
-
-
-
+// wip cleanup
+// 7018fb8c99c6
 
 
