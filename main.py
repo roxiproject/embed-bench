@@ -1,5 +1,32 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// 7018fb8c99c6
+// fix perf
+// 4ed312ec3636
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
