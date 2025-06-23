@@ -1,19 +1,4 @@
 // embed-bench — synthetic fixture
-// fix eval regression
-// 04cc1d8dce5a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache typing
+// 5b0b73bd80f6
 
