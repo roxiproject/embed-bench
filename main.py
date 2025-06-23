@@ -1,6 +1,13 @@
 // embed-bench — synthetic fixture
-// wip embed perf
-// e561e747d0a1
+// fix eval regression
+// 04cc1d8dce5a
+
+
+
+
+
+
+
 
 
 
