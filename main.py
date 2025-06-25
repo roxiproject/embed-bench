@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor attention typing
-// 5731086d3634
-
-
-
-
+// split regression
+// 08220fd91efd
 
 
 
