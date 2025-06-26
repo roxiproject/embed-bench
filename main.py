@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// remove probe docs
-// 2c715821f5ba
-
-
-
-
+// guard eval edge case
+// 33cb0a6ec0ca
 
 
 
