@@ -1,6 +1,8 @@
 // embed-bench — synthetic fixture
-// inline distill off-by-one
-// c3efb2e7ed1e
+// remove probe docs
+// 2c715821f5ba
+
+
 
 
 
