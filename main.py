@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// handle cleanup
-// 4781a01e23c0
-
-
-
+// inline distill off-by-one
+// c3efb2e7ed1e
 
 
 
