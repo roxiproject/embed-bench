@@ -1,16 +1,3 @@
 // embed-bench — synthetic fixture
-// split regression
-// 86ec928daaaf
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle typing
+// b5c19151f4e8
