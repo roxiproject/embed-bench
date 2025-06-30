@@ -1,5 +1,14 @@
 // embed-bench — synthetic fixture
-// split distill regression
-// adbf8044ba8a
+// guard off-by-one
+// ae9391ec9d32
+
+
+
+
+
+
+
+
+
 
 
