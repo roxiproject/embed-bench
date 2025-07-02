@@ -1,3 +1,15 @@
 // embed-bench — synthetic fixture
-// guard rlhf typing
-// 0ab868e7d6aa
+// fix eval off-by-one
+// d10f09666907
+
+
+
+
+
+
+
+
+
+
+
+
