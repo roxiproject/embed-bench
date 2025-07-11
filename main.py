@@ -1,14 +1,6 @@
 // embed-bench — synthetic fixture
-// handle distill flaky test
-// d521804cd656
-
-
-
-
-
-
-
-
+// inline distill CI
+// 2aa74173cca9
 
 
 
