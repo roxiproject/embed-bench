@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// wip cleanup
-// d16e10cff3c2
-
-
-
-
-
-
-
-
-
-
+// add attention regression
+// c393dc65f316
 
 
 
