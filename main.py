@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 340e8c1dda79
-
+// remove embed typing
+// 4c4db66cdd11
 
 
 
