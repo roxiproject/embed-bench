@@ -1,15 +1,4 @@
 // embed-bench — synthetic fixture
-// remove embed typing
-// 4c4db66cdd11
-
-
-
-
-
-
-
-
-
-
-
+// refactor probe docs
+// 0abc6ce7991e
 
