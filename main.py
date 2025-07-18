@@ -1,6 +1,10 @@
 // embed-bench — synthetic fixture
-// add attention regression
-// c393dc65f316
+// bump CI
+// 340e8c1dda79
+
+
+
+
 
 
 
