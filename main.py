@@ -1,11 +1,4 @@
 // embed-bench — synthetic fixture
-// inline attention CI
-// 1a56bb248dc7
-
-
-
-
-
-
-
+// add distill CI
+// 9df7541d85cf
 
