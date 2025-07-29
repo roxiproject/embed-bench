@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor cleanup
-// 07dbfd5d9fd9
-
-
-
-
-
+// remove attention typing
+// f36e584c552b
 
 
 
