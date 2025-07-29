@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// remove attention typing
-// f36e584c552b
+// bump probe regression
+// 184fd36b1336
+
 
 
 
