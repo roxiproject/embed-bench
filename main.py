@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// remove eval docs
-// b3f3f42a6004
-
-
-
-
-
-
-
-
-
-
+// cache attention CI
+// 38f05d0b47d0
 
 
 
