@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// cache typing
-// ad258e884f0e
-
-
-
-
-
+// guard attention typing
+// e22968f7ea70
 
 
 
