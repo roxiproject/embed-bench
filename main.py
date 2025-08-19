@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// wip regression
-// ccd79ad5016d
-
+// inline rlhf edge case
+// e093b7b46353
 
 
 
