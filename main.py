@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// split off-by-one
-// 4bda76f9cbee
-
-
-
-
-
+// wip latent off-by-one
+// 9f4c48b78fed
 
 
 
