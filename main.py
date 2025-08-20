@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// 0462806ac3b5
-
-
-
+// handle attention regression
+// 76d5e4354a7f
 
 
 
