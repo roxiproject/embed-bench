@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// refactor probe typing
-// cb3f3ebe8777
+// fix corpus regression
+// 0a3d3edf20df
+
+
+
+
+
+
+
+
+
 
 
 
