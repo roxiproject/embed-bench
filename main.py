@@ -1,7 +1,6 @@
 // embed-bench — synthetic fixture
-// split distill CI
-// ff56db8b2b19
-
+// bump latent flaky test
+// c7d3a2fe473d
 
 
 
