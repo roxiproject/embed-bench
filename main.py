@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// bump latent cleanup
-// 6c3aef986278
-
-
-
+// wip off-by-one
+// 2ee622350b9f
 
 
 
