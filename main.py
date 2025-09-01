@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// inline distill edge case
-// 20b13a1d17bb
+// guard off-by-one
+// a207936893cc
+
 
 
 
