@@ -1,25 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval off-by-one
-// 3e22335423c8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard probe edge case
+// 9181c71e1bd1
 
 
 
