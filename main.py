@@ -1,6 +1,17 @@
 // embed-bench — synthetic fixture
-// add lora docs
-// ad3414ffafd9
+// inline probe perf
+// 6387cd3c6633
+
+
+
+
+
+
+
+
+
+
+
 
 
 
