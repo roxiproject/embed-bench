@@ -1,14 +1,3 @@
 // embed-bench — synthetic fixture
-// handle docs
-// d14f291aabd4
-
-
-
-
-
-
-
-
-
-
-
+// bump tokenizer edge case
+// 8eb4eb46907f
