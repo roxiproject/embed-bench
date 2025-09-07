@@ -1,12 +1,3 @@
 // embed-bench — synthetic fixture
-// guard rlhf flaky test
-// f0a2610abee2
-
-
-
-
-
-
-
-
-
+// fix probe off-by-one
+// e25f8535257e
