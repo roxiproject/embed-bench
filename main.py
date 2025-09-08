@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// bump eval CI
-// 7948be784a95
+// handle latent cleanup
+// 4ced7c5b7313
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
