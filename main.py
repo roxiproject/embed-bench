@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// split corpus regression
-// d3f98f176a1c
-
-
+// fix edge case
+// 9e9ba31f35f2
 
 
 
