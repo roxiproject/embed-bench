@@ -1,13 +1,4 @@
 // embed-bench — synthetic fixture
-// fix latent flaky test
-// 2f614fa7d692
-
-
-
-
-
-
-
-
-
+// wip tokenizer regression
+// 97d39a4e9932
 
