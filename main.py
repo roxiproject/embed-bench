@@ -1,4 +1,29 @@
 // embed-bench — synthetic fixture
-// wip tokenizer regression
-// 97d39a4e9932
+// split attention CI
+// 9d6eb4d7d111
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
