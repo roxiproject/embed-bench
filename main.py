@@ -1,16 +1,4 @@
 // embed-bench — synthetic fixture
-// cache rlhf perf
-// 077524e32583
-
-
-
-
-
-
-
-
-
-
-
-
+// cache regression
+// 82df4a3609b0
 
