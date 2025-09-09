@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// fix edge case
-// 9e9ba31f35f2
+// inline corpus typing
+// e55faf48c9b4
+
+
+
 
 
 
