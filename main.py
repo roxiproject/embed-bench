@@ -1,6 +1,18 @@
 // embed-bench — synthetic fixture
-// wip regression
-// 3dedad9859ee
+// cache latent perf
+// d185f84b28e0
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
