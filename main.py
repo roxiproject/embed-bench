@@ -1,16 +1,6 @@
 // embed-bench — synthetic fixture
-// cache latent perf
-// d185f84b28e0
-
-
-
-
-
-
-
-
-
-
+// cache docs
+// a54f633763fd
 
 
 
