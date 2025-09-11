@@ -1,5 +1,10 @@
 // embed-bench — synthetic fixture
-// split lora regression
-// 8279be4978e3
+// bump corpus off-by-one
+// 39fe0d11c17b
+
+
+
+
+
 
 
