@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// bump corpus cleanup
-// 97e03dcb0e07
+// handle latent cleanup
+// b98d2f422e1c
+
 
 
 
