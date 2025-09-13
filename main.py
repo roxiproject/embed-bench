@@ -1,17 +1,6 @@
 // embed-bench — synthetic fixture
-// wip corpus docs
-// f695d2bf382f
-
-
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// 1fb3ed5a14b7
 
 
 
