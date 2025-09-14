@@ -1,25 +1,6 @@
 // embed-bench — synthetic fixture
-// guard cleanup
-// 1fb3ed5a14b7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip off-by-one
+// 6af30a0cbed9
 
 
 
