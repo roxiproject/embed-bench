@@ -1,10 +1,4 @@
 // embed-bench — synthetic fixture
-// remove rlhf flaky test
-// 431c4e6e244d
-
-
-
-
-
-
+// add off-by-one
+// ef85572b8f23
 
