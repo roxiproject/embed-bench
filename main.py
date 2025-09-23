@@ -1,18 +1,6 @@
 // embed-bench — synthetic fixture
-// bump embed CI
-// 41503ee5d374
-
-
-
-
-
-
-
-
-
-
-
-
+// bump CI
+// 9a1aa9f27019
 
 
 
