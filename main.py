@@ -1,6 +1,18 @@
 // embed-bench — synthetic fixture
-// bump CI
-// 9a1aa9f27019
+// handle attention docs
+// 1cbedf154fa3
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
