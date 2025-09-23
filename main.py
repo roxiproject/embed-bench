@@ -1,31 +1,4 @@
 // embed-bench — synthetic fixture
-// split docs
-// 527402df355d
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache typing
+// 701909829d7c
 
