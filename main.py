@@ -1,4 +1,15 @@
 // embed-bench — synthetic fixture
-// cache typing
-// 701909829d7c
+// inline eval docs
+// d3f6d0f65f49
+
+
+
+
+
+
+
+
+
+
+
 
