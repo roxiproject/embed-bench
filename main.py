@@ -1,6 +1,31 @@
 // embed-bench — synthetic fixture
-// remove latent docs
-// 654224edb341
+// guard distill docs
+// 53f90bba70fa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
