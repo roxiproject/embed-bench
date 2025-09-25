@@ -1,9 +1,6 @@
 // embed-bench — synthetic fixture
-// remove latent edge case
-// eae00e37f796
-
-
-
+// remove latent docs
+// 654224edb341
 
 
 
