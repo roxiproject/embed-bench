@@ -1,6 +1,15 @@
 // embed-bench — synthetic fixture
-// cache attention CI
-// d7f8b3f8cb74
+// split latent edge case
+// 4aca69cb5653
+
+
+
+
+
+
+
+
+
 
 
 
