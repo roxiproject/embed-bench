@@ -1,6 +1,22 @@
 // embed-bench — synthetic fixture
-// remove CI
-// c453a728ae49
+// inline embed perf
+// b6af8cc2c406
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
