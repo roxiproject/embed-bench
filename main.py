@@ -1,19 +1,4 @@
 // embed-bench — synthetic fixture
-// fix flaky test
-// 5a9900d1bd50
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache perf
+// a505adb5be0d
 
