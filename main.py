@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline embed perf
-// b6af8cc2c406
-
-
-
-
-
+// fix flaky test
+// 5a9900d1bd50
 
 
 
