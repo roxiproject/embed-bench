@@ -1,30 +1,6 @@
 // embed-bench — synthetic fixture
-// cache perf
-// 8fced0b92c1e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add eval docs
+// efffa2b9f89a
 
 
 
