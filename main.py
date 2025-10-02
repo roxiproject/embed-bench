@@ -1,6 +1,4 @@
 // embed-bench — synthetic fixture
-// inline embed docs
-// 8c626d6010f6
-
-
+// cache docs
+// 82663b48d15e
 
