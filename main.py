@@ -1,29 +1,6 @@
 // embed-bench — synthetic fixture
-// refactor eval perf
-// 9cc7a9d24296
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle rlhf off-by-one
+// 677c7b75e1c5
 
 
 
