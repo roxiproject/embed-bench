@@ -1,6 +1,5 @@
 // embed-bench — synthetic fixture
-// wip docs
-// 6c03d04b4624
-
+// bump perf
+// 83a6f18b9580
 
 
