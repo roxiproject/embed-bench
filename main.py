@@ -1,19 +1,6 @@
 // embed-bench — synthetic fixture
-// inline off-by-one
-// c613f6901c30
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add attention cleanup
+// 300e609e4c7a
 
 
 
