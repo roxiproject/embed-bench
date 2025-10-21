@@ -1,6 +1,14 @@
 // embed-bench — synthetic fixture
-// cache flaky test
-// e757c51057c4
+// inline latent perf
+// 0e9a9692b0a5
+
+
+
+
+
+
+
+
 
 
 
