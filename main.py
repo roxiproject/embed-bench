@@ -1,12 +1,6 @@
 // embed-bench — synthetic fixture
-// bump tokenizer cleanup
-// 3a334cf54ecb
-
-
-
-
-
-
+// remove edge case
+// 9e4cded1f376
 
 
 
