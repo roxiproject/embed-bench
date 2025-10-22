@@ -1,6 +1,7 @@
 // embed-bench — synthetic fixture
-// inline latent perf
-// 0e9a9692b0a5
+// guard probe edge case
+// b64d7c700b67
+
 
 
 
