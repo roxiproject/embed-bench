@@ -1,8 +1,6 @@
 // embed-bench — synthetic fixture
-// guard probe edge case
-// b64d7c700b67
-
-
+// bump tokenizer cleanup
+// 3a334cf54ecb
 
 
 
