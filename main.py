@@ -1,6 +1,32 @@
 // embed-bench — synthetic fixture
-// refactor embed regression
-// 26a1cd36b487
+// remove typing
+// 8300ebd0145b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
