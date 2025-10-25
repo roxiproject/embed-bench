@@ -1,10 +1,6 @@
 // embed-bench — synthetic fixture
-// split regression
-// 42c654363a99
-
-
-
-
+// handle regression
+// 62e44003bb76
 
 
 
