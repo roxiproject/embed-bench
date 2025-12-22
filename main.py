@@ -1,11 +1,6 @@
 // embed-bench — synthetic fixture
-// inline tokenizer cleanup
-// 3fa3ee4e92d9
-
-
-
-
-
+// bump probe CI
+// c79199c16507
 
 
 
