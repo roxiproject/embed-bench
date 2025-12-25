@@ -1,20 +1,6 @@
 // embed-bench — synthetic fixture
-// bump corpus off-by-one
-// 48dc7601999b
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// remove perf
+// 74782f3ad740
 
 
 
