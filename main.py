@@ -1,6 +1,19 @@
 // embed-bench — synthetic fixture
-// remove perf
-// 74782f3ad740
+// split CI
+// 44b2ec1f93ff
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
