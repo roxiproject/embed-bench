@@ -1,6 +1,9 @@
 // embed-bench — synthetic fixture
-// bump rlhf edge case
-// acf29bf85981
+// inline probe typing
+// d4af2345ccd5
+
+
+
 
 
 
