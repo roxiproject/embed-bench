@@ -77,3 +77,15 @@ K-means and LSH correctness are verified against constructed, well-separated
 clusters — the tests check that the algorithms actually recover the cluster
 structure (label agreement, centroid proximity, and ANN recall against exact
 search), not just that the code runs.
+
+## Related projects
+
+Part of the roxiproject ML/research thread:
+
+- [attention](https://github.com/roxiproject/attention) — attention/KV-cache implementations, verified bit-for-bit against a full forward pass.
+- [attention-probe-kit](https://github.com/roxiproject/attention-probe-kit) — instruments attention heads to extract/visualize what a probe attends to.
+- [probe-experiments](https://github.com/roxiproject/probe-experiments) — linear/non-linear probing experiments over model activations.
+- [lora-kit](https://github.com/roxiproject/lora-kit) — LoRA fine-tuning utilities, gradient-checked against dense-layer baselines.
+- [corpus-kit / corpus-bench / corpus-tokenizer-kit](https://github.com/roxiproject) — corpus/tokenizer pipeline.
+- [rlhf-experiments / rlhf-distill-experiments](https://github.com/roxiproject) — RLHF training/distillation.
+- [roxiproject](https://github.com/roxiproject/roxiproject) — account root / full project index.
