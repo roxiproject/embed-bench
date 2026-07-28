@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "embed-bench"
+version = "0.1.0"
+description = "Benchmarking harness for evaluating vector-embedding quality and retrieval performance."
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.24",
+]
+
+[project.scripts]
+embed-bench = "embed_bench.cli:main"
+
+[tool.setuptools]
+packages = ["embed_bench"]
